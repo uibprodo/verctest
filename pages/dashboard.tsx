@@ -1,6 +1,6 @@
 import OrganizationProdChart from "@/components/Charts/OrganizationProdChart"
 import ProdoscpreDistributionHistogram from "@/components/Charts/ProdoscpreDistributionHistogram"
-import Correlations from "@/components/Correlations/CorrelationsTabs/CorrelationsTabs"
+// import Correlations from "@/components/Correlations/CorrelationsTabs/CorrelationsTabs"
 import MyEmployees from "@/components/Employees/MyEmployees/MyEmployees"
 import ScoreStatus from "@/components/ScoreStatus/ScoreStatus"
 import ScoreSummary from "@/components/ScoreSummary/ScoreSummary"
