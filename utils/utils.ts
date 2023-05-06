@@ -1,13 +1,13 @@
 import { StaticImageData } from 'next/image';
 
-// import {
-//   faArrowDown,
-//   faArrowUp,
-//   faFrown,
-//   faMeh,
-//   faSmile,
-//   IconDefinition,
-// } from '@fortawesome/free-solid-svg-icons';
+import {
+  faArrowDown,
+  faArrowUp,
+  faFrown,
+  faMeh,
+  faSmile,
+  IconDefinition,
+} from '@fortawesome/free-solid-svg-icons';
 
 import {
   ICorrelationData,
@@ -25,7 +25,7 @@ import {
   colorDictionary,
   CorrelationsSideBar,
   EnterpriseSideBar,
-  // faDictionary,
+  faDictionary,
   MainSideBar,
   MyDashBoardSideBar,
   SettingsSideBar,
@@ -33,14 +33,14 @@ import {
 } from './constants';
 import { RangeColorVariations, TransformedEmployees } from './types';
 
-// type iconData = {
-//   icon: IconDefinition;
-//   backgroundColor: string;
-// };
+type iconData = {
+  icon: IconDefinition;
+  backgroundColor: string;
+};
 
-// export const getIcon = (icon: string): iconData => {
-//   return { icon: faDictionary[icon], backgroundColor: colorDictionary[icon] };
-// };
+export const getIcon = (icon: string): iconData => {
+  return { icon: faDictionary[icon], backgroundColor: colorDictionary[icon] };
+};
 
 //	Convert the name to a hex color code based on how it sounds like
 //	To get a unique color code per person
@@ -280,27 +280,27 @@ export const mtsToHrs = (time: number) => {
   return (hrs < 10 ? '0' : '') + hrs + ':' + (mts < 10 ? '0' : '') + mts;
 };
 
-// export const sentimentWidget = (sentiment: ISentiment) => {
-//   if (
-//     typeof sentiment == 'undefined' ||
-//     (sentiment.score == null && sentiment.magnitude == null) ||
-//     (sentiment.score == 0 && sentiment.magnitude == 0)
-//   )
-//     return {};
-//   else
-//     return {
-//       icon:
-//         sentiment.score < -0.1
-//           ? faFrown
-//           : sentiment.score > 0.1
-//           ? faSmile
-//           : faMeh,
-//       backGroundColor: `hsl(${50 + 50 * sentiment.score},${
-//         sentiment.score == 0 ? '0%, 80%' : '100%, 50%'
-//       })`,
-//       color: `rgba(0,0,0,${0.15 + sentiment.magnitude / 3})`,
-//     };
-// };
+export const sentimentWidget = (sentiment: ISentiment) => {
+  if (
+    typeof sentiment == 'undefined' ||
+    (sentiment.score == null && sentiment.magnitude == null) ||
+    (sentiment.score == 0 && sentiment.magnitude == 0)
+  )
+    return {};
+  else
+    return {
+      icon:
+        sentiment.score < -0.1
+          ? faFrown
+          : sentiment.score > 0.1
+          ? faSmile
+          : faMeh,
+      backGroundColor: `hsl(${50 + 50 * sentiment.score},${
+        sentiment.score == 0 ? '0%, 80%' : '100%, 50%'
+      })`,
+      color: `rgba(0,0,0,${0.15 + sentiment.magnitude / 3})`,
+    };
+};
 
 export const timeToMts = (time: string) => {
   let timeArray: any = time.split(':');
@@ -367,12 +367,12 @@ export const getRole = (roleData: IRoles, role: string): string => {
   return roleData[role];
 };
 
-// export const getArrowIconFor = (delta: number) => {
-//   if (delta > 0) {
-//     return faArrowUp;
-//   }
-//   return faArrowDown;
-// };
+export const getArrowIconFor = (delta: number) => {
+  if (delta > 0) {
+    return faArrowUp;
+  }
+  return faArrowDown;
+};
 
 //get arrow icon for delta
 export const getArrowIcon = (deltaDescs: string): StaticImageData => {

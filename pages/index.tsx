@@ -2,8 +2,8 @@ import { useState } from 'react';
 
 import Image from 'next/image';
 
-import AuthButton from '@/components/Buttons/AuthButton/AuthButton';
-import PrimaryButton from '@/components/Buttons/PrimaryButton/PrimaryButton';
+import AuthButton from '@/components/widgets/Buttons/AuthButton/AuthButton';
+import PrimaryButton from '@/components/widgets/Buttons/PrimaryButton/PrimaryButton';
 
 import googleAuthIcon from '../public/img/icons/g-normal.png';
 import msAuthIcon from '../public/img/icons/ms-normal.png';

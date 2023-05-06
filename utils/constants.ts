@@ -1,14 +1,14 @@
-// import {
-//   faCalendar,
-//   faUser,
-//   faBuilding,
-//   IconDefinition,
-//   faAddressBook,
-//   faMapMarker,
-//   faBook,
-//   faArchive,
-//   faTag,
-// } from '@fortawesome/free-solid-svg-icons';
+import {
+  faCalendar,
+  faUser,
+  faBuilding,
+  IconDefinition,
+  faAddressBook,
+  faMapMarker,
+  faBook,
+  faArchive,
+  faTag,
+} from '@fortawesome/free-solid-svg-icons';
 
 import { ISideBarItems } from '@/interfaces/ui';
 
@@ -43,16 +43,16 @@ export const colorDictionary: { [name: string]: string } = {
 };
 
 //Correlation entity icons
-// export const faDictionary: { [name: string]: IconDefinition } = {
-//   coos: faAddressBook,
-//   locations: faMapMarker,
-//   persons: faUser,
-//   organizations: faBuilding,
-//   events: faCalendar,
-//   articles: faBook,
-//   products: faArchive,
-//   others: faTag,
-// };
+export const faDictionary: { [name: string]: IconDefinition } = {
+  coos: faAddressBook,
+  locations: faMapMarker,
+  persons: faUser,
+  organizations: faBuilding,
+  events: faCalendar,
+  articles: faBook,
+  products: faArchive,
+  others: faTag,
+};
 
 export enum TableRowType {
   ListItemType,
@@ -396,57 +396,57 @@ export const EmployeeFilterEnterprise: EmployeeFilterTable[] = [
 
 //Correlations filter drop down variations
 //Correlation item dropdown values
-// export const Topics: CorrelationFilterItem[] = [
-//   {
-//     name: 'Locations',
-//     checked: true,
-//     icon: faDictionary['locations'],
-//     iconColor: colorDictionary['locations'],
-//     param: '',
-//   },
-//   {
-//     name: 'Peoples',
-//     checked: true,
-//     icon: faDictionary['persons'],
-//     iconColor: colorDictionary['persons'],
-//     param: '',
-//   },
-//   {
-//     name: 'Organizations',
-//     checked: false,
-//     icon: faDictionary['organizations'],
-//     iconColor: colorDictionary['organizations'],
-//     param: '',
-//   },
-//   {
-//     name: 'Events',
-//     checked: false,
-//     icon: faDictionary['events'],
-//     iconColor: colorDictionary['events'],
-//     param: '',
-//   },
-//   {
-//     name: 'Articles',
-//     checked: false,
-//     icon: faDictionary['articles'],
-//     iconColor: colorDictionary['articles'],
-//     param: '',
-//   },
-//   {
-//     name: 'Products',
-//     checked: false,
-//     icon: faDictionary['products'],
-//     iconColor: colorDictionary['products'],
-//     param: '',
-//   },
-//   {
-//     name: 'Other',
-//     checked: false,
-//     icon: faDictionary['others'],
-//     iconColor: colorDictionary['others'],
-//     param: '',
-//   },
-// ];
+export const Topics: CorrelationFilterItem[] = [
+  {
+    name: 'Locations',
+    checked: true,
+    icon: faDictionary['locations'],
+    iconColor: colorDictionary['locations'],
+    param: '',
+  },
+  {
+    name: 'Peoples',
+    checked: true,
+    icon: faDictionary['persons'],
+    iconColor: colorDictionary['persons'],
+    param: '',
+  },
+  {
+    name: 'Organizations',
+    checked: false,
+    icon: faDictionary['organizations'],
+    iconColor: colorDictionary['organizations'],
+    param: '',
+  },
+  {
+    name: 'Events',
+    checked: false,
+    icon: faDictionary['events'],
+    iconColor: colorDictionary['events'],
+    param: '',
+  },
+  {
+    name: 'Articles',
+    checked: false,
+    icon: faDictionary['articles'],
+    iconColor: colorDictionary['articles'],
+    param: '',
+  },
+  {
+    name: 'Products',
+    checked: false,
+    icon: faDictionary['products'],
+    iconColor: colorDictionary['products'],
+    param: '',
+  },
+  {
+    name: 'Other',
+    checked: false,
+    icon: faDictionary['others'],
+    iconColor: colorDictionary['others'],
+    param: '',
+  },
+];
 
 //Correlation item direction values
 export const Directions: CorrelationFilterItem[] = [

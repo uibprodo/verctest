@@ -1,4 +1,4 @@
-// import { IconDefinition } from '@fortawesome/free-solid-svg-icons';
+import { IconDefinition } from '@fortawesome/free-solid-svg-icons';
 
 export type Segments = {
   id?: number;
@@ -39,7 +39,7 @@ export type EmployeeFilterTable = {
 export type CorrelationFilterItem = {
   name: string;
   checked: boolean;
-  // icon?: IconDefinition;
+  icon?: IconDefinition;
   iconColor?: string;
   param: string;
 };
