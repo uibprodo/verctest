@@ -1,0 +1,24 @@
+{
+  "day_stats": { "2663": [["#1 (You)", 43]], "2665": [["#1 (You)", 48]] },
+  "employees": { "209691": { "activate_workshift": -1 } },
+  "holidays": {},
+  "prodoscores": {
+    "organization": {
+      "score": [23, "below"],
+      "score_delta": ["decrease", 1],
+      "score_extremes": [
+        [49, "baseline"],
+        [0, "below"]
+      ]
+    },
+    "self": { "rank": 1, "score": [45, "baseline"], "score_delta": false },
+    "team": {
+      "score": [45, "baseline"],
+      "score_delta": false,
+      "score_extremes": [
+        [45, "baseline"],
+        [45, "baseline"]
+      ]
+    }
+  }
+}

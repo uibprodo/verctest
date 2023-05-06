@@ -1,0 +1,185 @@
+{
+  "employees": {
+    "209691": {
+      "activate_workshift": -1,
+      "days": {
+        "2634": { "scr": { "l": 23.206 }, "strata": 0 },
+        "2635": { "scr": { "l": 43.746, "p": 49.335 }, "strata": 1 }
+      },
+      "domain_id": 539,
+      "email": "dason@prodmite.com",
+      "emp_holidays": {},
+      "fullname": "Dason Test",
+      "id": 209691,
+      "is_app_user": 0,
+      "manager": 52,
+      "own_details_visibility": 1,
+      "picture": " ",
+      "role": 15000,
+      "scr": { "delta": -32, "l": 33.476 },
+      "status": 1,
+      "strata": 0,
+      "timezone": "America/Los_Angeles"
+    },
+    "209694": {
+      "activate_workshift": -1,
+      "days": {
+        "2634": { "scr": { "l": 0.0 }, "strata": 0 },
+        "2635": { "scr": { "l": 0.0, "p": 0.0 }, "strata": 0 }
+      },
+      "domain_id": 539,
+      "email": "ruksha@prodmite.com",
+      "emp_holidays": {},
+      "fullname": "Ruksha De Silva",
+      "id": 209694,
+      "is_app_user": 0,
+      "manager": 52,
+      "own_details_visibility": 1,
+      "picture": "",
+      "role": 10000,
+      "scr": { "delta": 0, "l": 0.0 },
+      "status": 1,
+      "strata": 0,
+      "timezone": "America/Los_Angeles"
+    },
+    "209697": {
+      "activate_workshift": -1,
+      "days": {
+        "2634": {
+          "ip": ["112.134.xxx.xxx"],
+          "prod": {
+            "ch": 0,
+            "cl": 270,
+            "dc": 0,
+            "gm": 0,
+            "mt": 0,
+            "za": 0,
+            "zc": 0,
+            "ze": 0,
+            "zl": 0,
+            "zml": 0,
+            "zpo": 0,
+            "zt": 0
+          },
+          "scr": { "l": 38.511 },
+          "strata": 0,
+          "warning": { "incomplete": ["zp", "zph"] }
+        },
+        "2635": {
+          "ip": [],
+          "prod": { "ch": 0, "cl": 270, "dc": 0, "gm": 0, "mt": 0 },
+          "scr": { "l": 55.258, "p": 55.258 },
+          "strata": 1
+        }
+      },
+      "domain_id": 539,
+      "email": "vindula@prodmite.com",
+      "emp_holidays": {},
+      "fullname": "Vindula Senanayake",
+      "id": 209697,
+      "is_app_user": 0,
+      "manager": 209691,
+      "manager_details": {
+        "email": "vindula@prodmite.com",
+        "fullname": "Dason Test",
+        "id": 209691,
+        "role": 15000,
+        "status": 1
+      },
+      "own_details_visibility": 1,
+      "picture": "",
+      "role": 33,
+      "scr": { "delta": -15, "l": 46.885 },
+      "status": 1,
+      "strata": 1,
+      "timezone": "America/Los_Angeles"
+    },
+    "266015": {
+      "activate_workshift": -1,
+      "days": {
+        "2634": { "scr": { "l": 0.0 }, "strata": 0 },
+        "2635": { "scr": { "l": 0.0, "p": 0.0 }, "strata": 0 }
+      },
+      "domain_id": 539,
+      "email": "vijay@prodmite.com",
+      "emp_holidays": {},
+      "fullname": "Vijay Labaen",
+      "id": 266015,
+      "is_app_user": 0,
+      "manager": 209691,
+      "manager_details": {
+        "email": "vijay@prodmite.com",
+        "fullname": "Dason Test",
+        "id": 209691,
+        "role": 15000,
+        "status": 1
+      },
+      "own_details_visibility": 1,
+      "picture": "",
+      "role": 10000,
+      "scr": { "delta": 0, "l": 0.0 },
+      "status": 1,
+      "strata": 0,
+      "timezone": "America/Los_Angeles"
+    }
+  },
+  "prev_offset": 7,
+  "roles_and_managers": {
+    "managers": {
+      "209691": {
+        "email": "dason@prodmite.com",
+        "fullname": "Dason Test",
+        "id": 209691,
+        "picture": " ",
+        "role": 15000,
+        "status": 1
+      },
+      "209694": {
+        "email": "ruksha@prodmite.com",
+        "fullname": "Ruksha De Silva",
+        "id": 209694,
+        "picture": "",
+        "role": 10000,
+        "status": 1
+      },
+      "266015": {
+        "email": "vijay@prodmite.com",
+        "fullname": "Vijay Labaen",
+        "id": 266015,
+        "picture": "",
+        "role": 10000,
+        "status": 1
+      },
+      "266072": {
+        "email": "test@prodmite.com",
+        "fullname": "test user",
+        "id": 266072,
+        "picture": "",
+        "role": 15000,
+        "status": -1
+      }
+    },
+    "roles": [33, 10000, 15000]
+  },
+  "self": {
+    "activate_workshift": -1,
+    "days": {
+      "2634": { "scr": { "l": 23.206 }, "strata": 0 },
+      "2635": { "scr": { "l": 43.746, "p": 49.335 }, "strata": 1 }
+    },
+    "domain_id": 539,
+    "email": "dason@prodmite.com",
+    "emp_holidays": {},
+    "fullname": "Dason Test",
+    "id": 209691,
+    "is_app_user": 0,
+    "manager": 52,
+    "own_details_visibility": 1,
+    "picture": " ",
+    "role": 15000,
+    "scr": { "delta": -32, "l": 33.476 },
+    "status": 1,
+    "strata": 0,
+    "timezone": "America/Los_Angeles"
+  }
+}

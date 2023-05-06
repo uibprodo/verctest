@@ -1,0 +1,75 @@
+{
+  "employees": {
+    "265910": {
+      "activate_workshift": -1,
+      "days": {
+        "2650": {
+          "ip": [],
+          "prod": { "odr": 0, "oev": 360, "otc": 0, "otcl": 0, "otl": 0 },
+          "scr": { "l": 62.733 },
+          "strata": 1
+        },
+        "2651": {
+          "ip": [],
+          "prod": { "odr": 0, "oev": 360, "otc": 0, "otcl": 0, "otl": 0 },
+          "scr": { "l": 62.733, "p": 62.733 },
+          "strata": 1
+        },
+        "2652": {
+          "ip": [],
+          "prod": { "odr": 0, "oev": 360, "otc": 0, "otcl": 0, "otl": 0 },
+          "scr": { "l": 62.733, "p": 62.733 },
+          "strata": 1
+        },
+        "2653": {
+          "ip": [],
+          "prod": { "odr": 0, "oev": 360, "otc": 0, "otcl": 0, "otl": 0 },
+          "scr": { "l": 62.733 },
+          "strata": 1
+        },
+        "2656": {
+          "ip": [],
+          "prod": { "odr": 0, "oev": 360, "otc": 0, "otcl": 0, "otl": 0 },
+          "scr": { "l": 62.733, "p": 62.733 },
+          "strata": 1
+        }
+      },
+      "domain_id": 571,
+      "domain_name": "prodbotprod.onmicrosoft.com",
+      "email": "vijayupdate@prodbotprod.onmicrosoft.com",
+      "emp_holidays": {},
+      "fullname": "Vincent Test",
+      "id": 265910,
+      "is_app_user": 0,
+      "manager": 265905,
+      "manager_details": {
+        "domain_id": 571,
+        "email": "dasun@prodbotprod.onmicrosoft.com",
+        "fullname": "Dason Test",
+        "id": 265905,
+        "role": 15000,
+        "status": 1
+      },
+      "picture": "/get-microsoft-profile-picture/prodbotprod.onmicrosoft.com/14e3800c-07a8-457f-91a0-be4f07f76932",
+      "role": 22,
+      "scr": { "delta": 5, "l": 80 },
+      "status": 1,
+      "strata": 1,
+      "timezone": "Asia/Colombo"
+    }
+  },
+  "prev_offset": 7,
+  "self": {
+    "activate_workshift": -1,
+    "domain_id": 539,
+    "domain_name": "prodmite.com",
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "id": 209691,
+    "is_app_user": 0,
+    "picture": " ",
+    "role": 15000,
+    "status": 1,
+    "timezone": "America/Los_Angeles"
+  }
+}

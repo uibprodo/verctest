@@ -1,0 +1,902 @@
+[
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/#trends/employees",
+    "task": "Employee data Exported",
+    "activity_time": 1680587886607
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#organization",
+    "task": "Updated 8 IP Address Annotations",
+    "activity_time": 1680252697829
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#organization",
+    "task": "Updated 8 IP Address Annotations",
+    "activity_time": 1680252681176
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#organization",
+    "task": "Crop Time On",
+    "activity_time": 1680252681014
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#organization",
+    "task": "Updated 8 IP Address Annotations",
+    "activity_time": 1680252624646
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#organization",
+    "task": "Crop Time Off",
+    "activity_time": 1680252624402
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#organization",
+    "task": "Updated 8 IP Address Annotations",
+    "activity_time": 1680252533397
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#organization",
+    "task": "Custom Work Shifts Turned On",
+    "activity_time": 1680252533234
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#employee",
+    "task": "Activity Details Visibility on for (vijay@prodmite.com)",
+    "activity_time": 1680252202076
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#employee",
+    "task": "Activity Details Visibility on for (dason@prodmite.com)",
+    "activity_time": 1680252202042
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#employee",
+    "task": "Activity Details Visibility off for (dason@prodmite.com)",
+    "activity_time": 1680252129328
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#employee",
+    "task": "Activity Details Visibility off for (vijay@prodmite.com)",
+    "activity_time": 1680252084433
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#organization",
+    "task": "Updated 8 IP Address Annotations",
+    "activity_time": 1680252063837
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#organization",
+    "task": "Changed Activity Details",
+    "activity_time": 1680252063636
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#organization",
+    "task": "Updated 8 IP Address Annotations",
+    "activity_time": 1680252047639
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#organization",
+    "task": "Changed Activity Details",
+    "activity_time": 1680252046978
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#products/crx-system",
+    "task": "Chrome Extension Enabled for Dason Test",
+    "activity_time": 1680251011072
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#products/crx-system",
+    "task": "Chrome Extension Disabled for Dason Test",
+    "activity_time": 1680086296281
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#products/phone-system",
+    "task": "Updated Employee mapping on Dialpad Phone System",
+    "activity_time": 1680072908064
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#products/phone-system",
+    "task": "Updated Employee mapping on Dialpad Phone System",
+    "activity_time": 1680003770403
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#products/crm-system",
+    "task": "Integrated Vonage Business Cloud Phone System",
+    "activity_time": 1680003760663
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#organization",
+    "task": "Updated 8 IP Address Annotations",
+    "activity_time": 1680001215096
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#employee",
+    "task": "Updated Manager for (test@prodmite.com)",
+    "activity_time": 1679931600334
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#employee",
+    "task": "Updated Manager for (test@prodmite.com)",
+    "activity_time": 1679931493962
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#employee",
+    "task": "Updated Manager for (qat578174@gmail.com)",
+    "activity_time": 1679931493930
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#employee",
+    "task": "Updated Manager for (vijay@prodmite.com)",
+    "activity_time": 1679931482006
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#employee",
+    "task": "User Role Updated of (vindula@prodmite.com)",
+    "activity_time": 1679931467895
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#products/crx-system",
+    "task": "Chrome Extension Enabled for Other Websites Activity",
+    "activity_time": 1679915922676
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#products/crx-system",
+    "task": "Chrome Extension Enabled for Other Websites Activity",
+    "activity_time": 1679915863868
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#products/crx-system",
+    "task": "Chrome Extension Enabled for Dason Test",
+    "activity_time": 1679915787882
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#organization",
+    "task": "Updated 7 IP Address Annotations",
+    "activity_time": 1679913597862
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#organization",
+    "task": "Added 1 IP Address Annotation",
+    "activity_time": 1679913597849
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#organization",
+    "task": "Updated 7 IP Address Annotations",
+    "activity_time": 1679908054317
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#organization",
+    "task": "Updated 6 IP Address Annotations",
+    "activity_time": 1679907973266
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#organization",
+    "task": "Added 1 IP Address Annotation",
+    "activity_time": 1679907973254
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#organization",
+    "task": "Removed 2 IP Address Annotations",
+    "activity_time": 1679907917412
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#organization",
+    "task": "Updated 5 IP Address Annotations",
+    "activity_time": 1679907917400
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#organization",
+    "task": "Added 1 IP Address Annotation",
+    "activity_time": 1679907917388
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#organization",
+    "task": "Updated 7 IP Address Annotations",
+    "activity_time": 1679907653187
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#organization",
+    "task": "Updated 6 IP Address Annotations",
+    "activity_time": 1679907576218
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#organization",
+    "task": "Added 1 IP Address Annotation",
+    "activity_time": 1679907576207
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#organization",
+    "task": "Updated 5 IP Address Annotations",
+    "activity_time": 1679907319400
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#organization",
+    "task": "Added 1 IP Address Annotation",
+    "activity_time": 1679907319389
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#products/crm-system",
+    "task": "Disconnect Crelate CRM System",
+    "activity_time": 1679907231831
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/#trends/admin-activity",
+    "task": "Admin Activities Exported",
+    "activity_time": 1679905636144
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/#trends/raw-data",
+    "task": "Raw Data Exported",
+    "activity_time": 1679905604269
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/#trends/employees",
+    "task": "Employee data Exported",
+    "activity_time": 1679905580450
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#employee",
+    "task": "User Role Updated of (vindula@prodmite.com)",
+    "activity_time": 1679383594746
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#employee",
+    "task": "User Role Updated of (ruksha@prodmite.com)",
+    "activity_time": 1679382791160
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#employee",
+    "task": "Updated Manager for (dason@prodmite.com)",
+    "activity_time": 1679382791128
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#products/crm-system",
+    "task": "Updated Employee mapping on Crelate CRM System",
+    "activity_time": 1679290714819
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#products/crm-system",
+    "task": "Updated modules for Crelate CRM System",
+    "activity_time": 1679288770694
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#products/crm-system",
+    "task": "Integrated Crelate CRM System",
+    "activity_time": 1679288696669
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#products/crm-system",
+    "task": "Disconnected Zoho CRM System",
+    "activity_time": 1679287632828
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#employee",
+    "task": "User Role Updated of (qat578174@gmail.com)",
+    "activity_time": 1679041131559
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#products/crm-system",
+    "task": "Updated Employee mapping on Zoho CRM System",
+    "activity_time": 1679032450057
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#products/crm-system",
+    "task": "Updated modules for Zoho CRM System",
+    "activity_time": 1679032437279
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#products/crm-system",
+    "task": "Integrated Zoho CRM System",
+    "activity_time": 1679032426223
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#products/crm-system",
+    "task": "Disconnected Salesforce CRM System",
+    "activity_time": 1679032386447
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#products/crm-system",
+    "task": "Updated Employee mapping on Salesforce CRM System",
+    "activity_time": 1679032166356
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#products/crm-system",
+    "task": "Updated modules for Salesforce CRM System",
+    "activity_time": 1679032159831
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#products/crm-system",
+    "task": "Integrated salesforce CRM System",
+    "activity_time": 1679032149625
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#products/crm-system",
+    "task": "Disconnected Zoho CRM System",
+    "activity_time": 1679032130889
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#products/crm-system",
+    "task": "Updated Employee mapping on Zoho CRM System",
+    "activity_time": 1679030114768
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#products/crm-system",
+    "task": "Updated Employee mapping on Zoho CRM System",
+    "activity_time": 1679030109186
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#organization",
+    "task": "Updated 5 IP Address Annotations",
+    "activity_time": 1679028288306
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#organization",
+    "task": "Crop Time On",
+    "activity_time": 1679028288202
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#organization",
+    "task": "Updated 5 IP Address Annotations",
+    "activity_time": 1679028246154
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#organization",
+    "task": "Crop Time Off",
+    "activity_time": 1679028246053
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#organization",
+    "task": "Updated 5 IP Address Annotations",
+    "activity_time": 1679028183576
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#organization",
+    "task": "Custom Work Shifts Turned Off",
+    "activity_time": 1679028183463
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#organization",
+    "task": "Updated 5 IP Address Annotations",
+    "activity_time": 1679028149745
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#organization",
+    "task": "Custom Work Shifts Turned On",
+    "activity_time": 1679028149626
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#employee",
+    "task": "Activated new User (test@prodmite.com)",
+    "activity_time": 1679027890661
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#employee",
+    "task": "Activated new User (qat578174@gmail.com)",
+    "activity_time": 1679027855930
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#employee",
+    "task": "User Terminated (test@prodmite.com)",
+    "activity_time": 1679027785994
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#organization",
+    "task": "Updated 5 IP Address Annotations",
+    "activity_time": 1678955415693
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#organization",
+    "task": "Crop Time On",
+    "activity_time": 1678955415566
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#organization",
+    "task": "Updated 5 IP Address Annotations",
+    "activity_time": 1678955162452
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#organization",
+    "task": "Crop Time Off",
+    "activity_time": 1678955162334
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/#trends/raw-data",
+    "task": "Raw Data Exported",
+    "activity_time": 1678946282257
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/#trends/raw-data",
+    "task": "Raw Data Exported",
+    "activity_time": 1678945890481
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/#trends/employees",
+    "task": "Employee data Exported",
+    "activity_time": 1678943771782
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#products/crx-system",
+    "task": "Chrome Extension Disabled for Vindula Senanayake",
+    "activity_time": 1678873994705
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#products/crx-system",
+    "task": "Chrome Extension Disabled for Ruksha De Silva",
+    "activity_time": 1678873994674
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#employee",
+    "task": "Updated Manager for (ruksha@prodmite.com)",
+    "activity_time": 1678859017940
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/details-report",
+    "task": "Emails sent Report Exported",
+    "activity_time": 1678856012389
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#products/crm-system",
+    "task": "Updated Employee mapping on Zoho CRM System",
+    "activity_time": 1678792845972
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#products/crm-system",
+    "task": "Updated modules for Zoho CRM System",
+    "activity_time": 1678786106538
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#organization",
+    "task": "Updated 5 IP Address Annotations",
+    "activity_time": 1678685312405
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#organization",
+    "task": "Crop Time On",
+    "activity_time": 1678685312305
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#organization",
+    "task": "Updated 5 IP Address Annotations",
+    "activity_time": 1678683085279
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#organization",
+    "task": "Crop Time Off",
+    "activity_time": 1678683085172
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#organization",
+    "task": "Changed Day End",
+    "activity_time": 1678683085160
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#organization",
+    "task": "Changed Day Start",
+    "activity_time": 1678683085148
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#organization",
+    "task": "Updated 5 IP Address Annotations",
+    "activity_time": 1678682641364
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#organization",
+    "task": "Changed Day End",
+    "activity_time": 1678682641248
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#organization",
+    "task": "Changed Day Start",
+    "activity_time": 1678682641237
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#organization",
+    "task": "Updated 5 IP Address Annotations",
+    "activity_time": 1678682427828
+  },
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "page": "/settings/#products/crm-system",
+    "task": "Integrated Zoho CRM System",
+    "activity_time": 1678425770514
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "products": {
+    "calendar": {
+      "product_name": "Calendar event time",
+      "product_icon": "cal.png",
+      "product_metric": "",
+      "input": "2 hrs 00 mins",
+      "input_extremes": ["2h 00m", "N/A"],
+      "input_delta": { "percentage": "0%", "delta": "steady" }
+    },
+    "crx-gsuit": {
+      "product_name": "Google Workspace Activity",
+      "product_icon": "GoogleWorkspace.png",
+      "product_metric": "Activities",
+      "input": 62,
+      "input_extremes": [62, "N/A"],
+      "input_delta": { "percentage": "58%", "delta": "increase" }
+    },
+    "crx-arbit": {
+      "product_name": "Other Websites Activity",
+      "product_icon": "chrome.png",
+      "product_metric": "Pages",
+      "input": 40,
+      "input_extremes": [40, "N/A"],
+      "input_delta": { "percentage": "900%", "delta": "increase" }
+    },
+    "docs": {
+      "product_name": "Google Drive activities",
+      "product_icon": "logo_drive.png",
+      "product_metric": "Files",
+      "input": 2,
+      "input_extremes": [2, "N/A"],
+      "input_delta": { "percentage": "N/A", "delta": "na" }
+    },
+    "gmail": {
+      "product_name": "Emails sent",
+      "product_icon": "mail.png",
+      "product_metric": "Emails",
+      "input": 2,
+      "input_extremes": [2, "N/A"],
+      "input_delta": { "percentage": "N/A", "delta": "na" }
+    }
+  },
+  "date_unformatted": "2023-04-18",
+  "date": "Apr 18, 2023"
+}

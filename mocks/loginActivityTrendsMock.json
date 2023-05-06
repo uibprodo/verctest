@@ -1,0 +1,37 @@
+[
+  {
+    "user_id": 209691,
+    "email": "dason@prodmite.com",
+    "fullname": "Dason Test",
+    "role": "Administrator",
+    "logged_time": 1680602148000
+  },
+  {
+    "user_id": 209697,
+    "email": "vindula@prodmite.com",
+    "fullname": "Vindula Senanayake",
+    "role": "Manager",
+    "logged_time": 1679931452000
+  },
+  {
+    "user_id": 266015,
+    "email": "vijay@prodmite.com",
+    "fullname": "Vijay Labaen",
+    "role": "Manager",
+    "logged_time": 1678859875000
+  },
+  {
+    "user_id": 209694,
+    "email": "ruksha@prodmite.com",
+    "fullname": "Ruksha De Silva",
+    "role": "Sales",
+    "logged_time": 1676273371000
+  },
+  {
+    "user_id": 265825,
+    "email": "qat578174@gmail.com",
+    "fullname": "TestManager1",
+    "role": "Administrator",
+    "logged_time": 1671171549000
+  }
+]

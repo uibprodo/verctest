@@ -1,13 +1,58 @@
 /** @type {import('tailwindcss').Config} */
+const { fontFamily } = require('tailwindcss/defaultTheme');
 module.exports = {
-   content: [
-    "./app/**/*.{js,ts,jsx,tsx,mdx}",
-    "./pages/**/*.{js,ts,jsx,tsx,mdx}",
-    "./components/**/*.{js,ts,jsx,tsx,mdx}",
+  content: [
+    './app/**/*.{js,ts,jsx,tsx}',
+    './pages/**/*.{js,ts,jsx,tsx}',
+    './components/**/*.{js,ts,jsx,tsx}',
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        sans: ['var(--font-linotte)', ...fontFamily.sans],
+      },
+    },
+    screens: {
+      sm: '480px',
+      md: '768px',
+      lg: '940px',
+      xl: '1024px',
+      '1xl': '1190px',
+      '2xl': '1440px',
+    },
+    colors: {
+      'primary-blue': '#1e86d9',
+      'primary-red': '#f1433c',
+      'primary-gray': '#494949',
+      'primary-background': '#f4f4f4',
+      'sidebar-primary': '#161616',
+      'dark-hover': '#282828',
+      'modal-bg': 'rgba(145, 169, 188, 0.4)',
+      'red-100': '#fde4e3',
+      'red-200': '#fdeceb',
+      'blue-100': '#e9f2fa',
+      'blue-200': '#186aac',
+      'blue-300': '#cceaf9',
+      'blue-400': '#E9F2FA',
+      'blue-500': '#b8d8ff',
+      'green-100': '#E9FAED',
+      'green-200': '#b8d8ff',
+      'gray-slate-100': '#797979',
+      'gray-slate-200': '#c6c6c6',
+      'gray-slate-300': '#f8f8f8',
+      'gray-slate-400': '#fcfcfc',
+      'gray-slate-500': '#eeeeee',
+      'gray-slate-600': 'rgba(35, 35, 35, 0.1)',
+      'gray-slate-700': '#ececec',
+      'gray-slate-800': '#f2f2f2',
+      'gray-slate-900': '#232323',
+      'yellow-slate-100': '#FFFFF4',
+      'white-slate-50': 'rgba(255, 255, 255, 0.5)',
+      'black-slate-70': 'rgba(0, 0, 0, 0.7)',
+      white: '#ffffff',
+      black: '#000000',
+      transparent: 'transparent',
+    },
   },
   plugins: [],
-}
-
+};

@@ -1,0 +1,35 @@
+{
+  "prod": [{ "name": "cl", "count": 10, "perc": 100 }],
+  "emp": [
+    {
+      "id": 209697,
+      "fullname": "Vindula Senanayake",
+      "picture": "",
+      "count": 4,
+      "visibility": true,
+      "perc": 40
+    },
+    {
+      "id": 209691,
+      "fullname": "Dason Test",
+      "picture": " ",
+      "count": 3,
+      "visibility": true,
+      "perc": 30
+    },
+    {
+      "id": 209694,
+      "fullname": "Ruksha De Silva",
+      "picture": "",
+      "count": 3,
+      "visibility": true,
+      "perc": 30
+    }
+  ],
+  "days": { "2643": 10 },
+  "attribs": { "title": "Meeting" },
+  "int_ext": [
+    { "int_ext": 1, "count": 9 },
+    { "int_ext": 2, "count": 1 }
+  ]
+}

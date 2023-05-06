@@ -1,0 +1,47 @@
+[
+  {
+    "user_id": 209697,
+    "email": "vindula@prodmite.com",
+    "fullname": "Vindula Senanayake",
+    "role": "Administrator",
+    "timezone": "",
+    "browser_data": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+    "logged_time": 1679383013531
+  },
+  {
+    "user_id": 209697,
+    "email": "vindula@prodmite.com",
+    "fullname": "Vindula Senanayake",
+    "role": "Administrator",
+    "timezone": "",
+    "browser_data": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
+    "logged_time": 1679308598878
+  },
+  {
+    "user_id": 209697,
+    "email": "vindula@prodmite.com",
+    "fullname": "Vindula Senanayake",
+    "role": "Administrator",
+    "timezone": "",
+    "browser_data": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
+    "logged_time": 1679308559263
+  },
+  {
+    "user_id": 209697,
+    "email": "vindula@prodmite.com",
+    "fullname": "Vindula Senanayake",
+    "role": "Manager",
+    "timezone": "",
+    "browser_data": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
+    "logged_time": 1677126041592
+  },
+  {
+    "user_id": 209697,
+    "email": "vindula@prodmite.com",
+    "fullname": "Vindula Senanayake",
+    "role": "Manager",
+    "timezone": "",
+    "browser_data": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",
+    "logged_time": 1677050393246
+  }
+]

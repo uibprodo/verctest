@@ -1,0 +1,2245 @@
+{
+  "dc": {
+    "slug": "docs",
+    "title": "Google Drive activities",
+    "sname": "Drive Activity",
+    "munit": "n",
+    "weight": 2,
+    "icon": "logo_drive.png",
+    "fields": {}
+  },
+  "gm": {
+    "slug": "gmail",
+    "title": "Emails sent",
+    "sname": "Gmail",
+    "munit": "n",
+    "weight": 5,
+    "icon": "mail.png",
+    "fields": { "To": "To" }
+  },
+  "cl": {
+    "slug": "calendar",
+    "title": "Calendar event time",
+    "sname": "Calendar Time (minutes)",
+    "munit": "t",
+    "weight": 3,
+    "icon": "cal.png",
+    "fields": {
+      "status": "Status",
+      "duration": "Duration",
+      "description": "Description"
+    }
+  },
+  "ch": {
+    "slug": "hangouts",
+    "title": "Chat lines",
+    "sname": "Google Chat",
+    "munit": "n",
+    "weight": 1,
+    "icon": "chat.png",
+    "fields": {
+      "from": "From",
+      "message_type": "Type",
+      "members": "Members",
+      "conversationType": "Type",
+      "description": "Description",
+      "roomName": "Room Name"
+    }
+  },
+  "mt": {
+    "slug": "meets",
+    "title": "Google Meet",
+    "sname": "Google Meet (minutes)",
+    "munit": "t",
+    "weight": 3,
+    "icon": "meet.png",
+    "fields": {
+      "duration_seconds": "Duration",
+      "video_send_seconds": "Camera On",
+      "video_off_seconds": "Camera Off",
+      "screencast_send_seconds": "Screen Sharing",
+      "location_country": "Country Code",
+      "location_region": "Region",
+      "end_of_call_rating": "Call Rating"
+    }
+  },
+  "otl": {
+    "slug": "outlook",
+    "title": "Emails sent",
+    "sname": "Microsoft Outlook",
+    "munit": "n",
+    "weight": 5,
+    "icon": "logo_outlook.png",
+    "fields": { "To": "To", "bodyPreview": "Body" }
+  },
+  "otlr": {
+    "slug": "outlook-r",
+    "title": "Emails sent",
+    "sname": "Microsoft Outlook",
+    "munit": "n",
+    "weight": 5,
+    "icon": "logo_outlook.png",
+    "fields": {}
+  },
+  "otl-r": {
+    "slug": "outlk-read",
+    "title": "Emails read",
+    "sname": "Outlook Read",
+    "munit": "n",
+    "weight": 2,
+    "icon": "logo_outlook_read.png",
+    "fields": { "From": "From", "bodyPreview": "Body" }
+  },
+  "odr": {
+    "slug": "onedrive",
+    "title": "OneDrive activities",
+    "sname": "OneDrive Activity",
+    "munit": "n",
+    "weight": 2,
+    "icon": "onedrive.png",
+    "fields": {}
+  },
+  "odr-r": {
+    "slug": "onedrive-r",
+    "title": "OneDrive activities",
+    "sname": "OneDrive Activity",
+    "munit": "n",
+    "weight": 2,
+    "icon": "onedrive.png",
+    "fields": {}
+  },
+  "oev": {
+    "slug": "oevents",
+    "title": "Calendar event time",
+    "sname": "Calendar Time (minutes)",
+    "munit": "t",
+    "weight": 3,
+    "icon": "officecalendar.png",
+    "fields": {
+      "attendees_status": "Status",
+      "duration": "Duration",
+      "bodyPreview": "Description"
+    }
+  },
+  "oev-r": {
+    "slug": "oevents-r",
+    "title": "Calendar event time",
+    "sname": "Calendar Time (minutes)",
+    "munit": "t",
+    "weight": 3,
+    "icon": "officecalendar.png",
+    "fields": {}
+  },
+  "otc": {
+    "slug": "teams-chats",
+    "title": "Teams Chat",
+    "sname": "Teams Chat",
+    "munit": "n",
+    "weight": 1,
+    "icon": "office_teams_chat.png",
+    "fields": {
+      "team_name": "Team",
+      "channel_name": "Channel",
+      "from": "From",
+      "data": "Message",
+      "mentions": "Mentions",
+      "reactions": "Reactions"
+    }
+  },
+  "otc-r": {
+    "slug": "teams-chat-r",
+    "title": "Teams Chat",
+    "sname": "Teams Chat",
+    "munit": "n",
+    "weight": 1,
+    "icon": "office_teams_chat.png",
+    "fields": {}
+  },
+  "otcl": {
+    "slug": "teams-calls",
+    "title": "Teams Call",
+    "sname": "Teams Calls",
+    "munit": "t",
+    "weight": 3,
+    "icon": "office_teams_calls.png",
+    "fields": {
+      "status": "Status",
+      "callDirection": "Direction",
+      "duration": "Duration"
+    }
+  },
+  "otcl-r": {
+    "slug": "teams-call-r",
+    "title": "Teams Call",
+    "sname": "Teams Calls",
+    "munit": "t",
+    "weight": 3,
+    "icon": "office_teams_calls.png",
+    "fields": {}
+  },
+  "tb": {
+    "slug": "turbobridge",
+    "title": "Conference calls",
+    "sname": "TurboBridge: Call (minutes)",
+    "munit": "t",
+    "weight": 4,
+    "icon": "conf_call-01.svg",
+    "fields": {
+      "fromNumber": "Number",
+      "duration": "Duration",
+      "location": "Location"
+    }
+  },
+  "zc": {
+    "slug": "zcalls",
+    "title": "Zoho Calls",
+    "sname": "Zoho: Calls (minutes)",
+    "munit": "t",
+    "weight": 4,
+    "icon": "zoho_calls.png",
+    "fields": {
+      "Call_Type": "Call Type",
+      "Call_Status": "Call Status",
+      "Call_Duration": "Call Duration",
+      "Description": "Description",
+      "Billable": "Billable"
+    }
+  },
+  "ze": {
+    "slug": "zevents",
+    "title": "Zoho Events",
+    "sname": "Zoho: Events",
+    "munit": "t",
+    "weight": 3,
+    "icon": "zoho_events.png",
+    "fields": {
+      "Venue": "Venue",
+      "Start_DateTime": "Start Time",
+      "End_DateTime": "End Time",
+      "Description": "Description"
+    }
+  },
+  "zt": {
+    "slug": "ztasks",
+    "title": "Zoho Tasks",
+    "sname": "Zoho: Tasks",
+    "munit": "n",
+    "weight": 2,
+    "icon": "zoho_tasks.png",
+    "fields": {
+      "Status": "Status",
+      "Priority": "Priority",
+      "Due_Date": "Due Date",
+      "Description": "Description"
+    }
+  },
+  "zl": {
+    "slug": "zleads",
+    "title": "Zoho Leads",
+    "sname": "Zoho: Leads",
+    "munit": "n",
+    "weight": 4,
+    "icon": "zoho_leads.png",
+    "fields": {
+      "Email": "Email",
+      "Company": "Company",
+      "Description": "Description",
+      "Industry": "Industry",
+      "Lead_Status": "Lead Status",
+      "Lead_Source": "Lead Source"
+    }
+  },
+  "za": {
+    "slug": "zaccounts",
+    "title": "Zoho Accounts",
+    "sname": "Zoho: Accounts",
+    "munit": "n",
+    "weight": 3,
+    "icon": "zoho_accounts.png",
+    "fields": {
+      "Account_Number": "Account Number",
+      "Account_Type": "Account Type",
+      "Industry": "Industry",
+      "Description": "Description"
+    }
+  },
+  "zi": {
+    "slug": "zinvoices",
+    "title": "Zoho invoices",
+    "sname": "Zoho: Invoices",
+    "munit": "n",
+    "weight": 3,
+    "icon": "crm_invoice-01.svg",
+    "fields": {}
+  },
+  "zp": {
+    "slug": "zprojects",
+    "title": "Zoho Projects",
+    "sname": "Zoho: Projects",
+    "munit": "n",
+    "weight": 1,
+    "icon": "zoho_projects.png",
+    "fields": {
+      "module": "Module",
+      "project_name": "Project Name",
+      "action": "Status",
+      "action_field": "Field",
+      "current_value": "Current Value"
+    }
+  },
+  "zpo": {
+    "slug": "zpurchases",
+    "title": "Zoho Purchase Order",
+    "sname": "Zoho: Purchase Order",
+    "munit": "n",
+    "weight": 2,
+    "icon": "zoho_purchases.png",
+    "fields": {
+      "PO_Number": "PO Number",
+      "Vendor_Id": "Vendor Id",
+      "Status": "Status",
+      "Description": "Description"
+    }
+  },
+  "zph": {
+    "slug": "zphurchcus",
+    "title": "Zoho Purchases",
+    "sname": "Zoho: Purchases",
+    "munit": "n",
+    "weight": 2,
+    "icon": "zoho_purchas.png",
+    "fields": { "Status": "Status" }
+  },
+  "zml": {
+    "slug": "zemails",
+    "title": "Zoho Emails",
+    "sname": "Zoho: Emails",
+    "munit": "n",
+    "weight": 2,
+    "icon": "zoho_email.png",
+    "fields": { "email": "Email" }
+  },
+  "bs": {
+    "slug": "broadsoft",
+    "title": "Phone system",
+    "sname": "Broadsoft: Call (minutes)",
+    "munit": "t",
+    "weight": 4,
+    "icon": "logo_broadsoft.png",
+    "fields": {
+      "name": "Name",
+      "address": "Number",
+      "duration": "Duration",
+      "network": "Network",
+      "Status": "Status",
+      "Direction": "Direction"
+    }
+  },
+  "sms": {
+    "slug": "sms",
+    "title": "Mobile Text Messages",
+    "sname": "Android: SMS",
+    "munit": "n",
+    "weight": 1,
+    "icon": "mobile_message.svg",
+    "fields": { "content": "Message" }
+  },
+  "cll": {
+    "slug": "call",
+    "title": "Mobile Phone Calls",
+    "sname": "Android: Call (minutes)",
+    "munit": "t",
+    "weight": 4,
+    "icon": "mobile_call.svg",
+    "fields": { "type": "Type", "duration": "Duration" }
+  },
+  "pl": {
+    "slug": "pwleads",
+    "title": "CRM leads",
+    "sname": "ProsperWorks: Leads",
+    "munit": "n",
+    "weight": 4,
+    "icon": "crm_leads-01.svg",
+    "fields": {
+      "status": "Status",
+      "company_name": "Company",
+      "details": "Details"
+    }
+  },
+  "po": {
+    "slug": "pwoprtunts",
+    "title": "CRM opportunities",
+    "sname": "ProsperWorks: Opportunities",
+    "munit": "n",
+    "weight": 4,
+    "icon": "crm_opportunity.svg",
+    "fields": {
+      "status": "Status",
+      "priority": "Priority",
+      "company_name": "Company",
+      "monetary_value": "Value",
+      "details": "Details"
+    }
+  },
+  "rcc": {
+    "slug": "ringc_calls",
+    "title": "Phone Calls",
+    "sname": "Phone Call (minutes)",
+    "munit": "t",
+    "weight": 4,
+    "icon": "logo_ringc_calls.png",
+    "fields": {
+      "result": "Status",
+      "type": "Type",
+      "direction": "Direction",
+      "duration": "Duration"
+    }
+  },
+  "rcs": {
+    "slug": "ringc_sms",
+    "title": "SMS",
+    "sname": "SMS",
+    "munit": "n",
+    "weight": 1,
+    "icon": "logo_ringc_sms.png",
+    "fields": { "readStatus": "Status", "subject": "Message" }
+  },
+  "rcm": {
+    "slug": "ringc_meets",
+    "title": "RingCentral Meetings",
+    "sname": "RingCentral Meetings",
+    "munit": "t",
+    "weight": 3,
+    "icon": "logo_ringc_meets.png",
+    "fields": {
+      "duration": "Duration",
+      "description": "Description",
+      "location": "Link",
+      "module": "Module"
+    }
+  },
+  "rcg": {
+    "slug": "ringc_glip",
+    "title": "RingCentral Team Messaging",
+    "sname": "RingCentral Team Messaging",
+    "munit": "n",
+    "weight": 1,
+    "icon": "ringc_glip.png",
+    "fields": {
+      "text": "Message",
+      "body": "Content",
+      "chat_type": "Message Type",
+      "sub_module": "Module",
+      "status": "Status",
+      "description": "Description",
+      "location": "Location"
+    }
+  },
+  "cvc": {
+    "slug": "cv_calls",
+    "title": "Cisco Voice Calls",
+    "sname": "Cisco Voice Calls (minutes)",
+    "munit": "t",
+    "weight": 3,
+    "icon": "cisco_voice_call.png",
+    "fields": { "direction": "Direction", "duration": "Duration" }
+  },
+  "scl": {
+    "slug": "sugar_leads",
+    "title": "CRM leads",
+    "sname": "SugarCRM: Leads",
+    "munit": "n",
+    "weight": 4,
+    "icon": "crm_leads-01.svg",
+    "fields": {
+      "full_name": "Full name",
+      "account_name": "Account name",
+      "email1": "Email",
+      "lead_source": "Lead Source",
+      "status": "Status"
+    }
+  },
+  "sco": {
+    "slug": "sugar_opps",
+    "title": "CRM opportunities",
+    "sname": "SugarCRM: Opportunities",
+    "munit": "n",
+    "weight": 4,
+    "icon": "crm_opportunity.svg",
+    "fields": {
+      "account_name": "Account name",
+      "opportunity_type": "Opportunity type",
+      "lead_source": "Lead Source"
+    }
+  },
+  "scc": {
+    "slug": "sugar_calls",
+    "title": "CRM calls",
+    "sname": "SugarCRM: Calls (minutes)",
+    "munit": "t",
+    "weight": 4,
+    "icon": "crm_conversions-01.svg",
+    "fields": {
+      "status": "Status",
+      "duration": "Duration",
+      "description": "Description",
+      "direction": "Direction",
+      "accept_status_calls": "Participant Status"
+    }
+  },
+  "scm": {
+    "slug": "sugar_meets",
+    "title": "CRM meetings",
+    "sname": "SugarCRM: Meetings (minutes)",
+    "munit": "t",
+    "weight": 3,
+    "icon": "crm_events-01.svg",
+    "fields": {
+      "status": "Status",
+      "description": "Description",
+      "accept_status_meetings": "Participant Status"
+    }
+  },
+  "sct": {
+    "slug": "sugar_tasks",
+    "title": "CRM tasks",
+    "sname": "SugarCRM: Tasks",
+    "munit": "n",
+    "weight": 4,
+    "icon": "crm_tasks-01.svg",
+    "fields": { "description": "Description" }
+  },
+  "scn": {
+    "slug": "sugar_notes",
+    "title": "CRM notes",
+    "sname": "SugarCRM: Notes",
+    "munit": "n",
+    "weight": 4,
+    "icon": "crm_tasks-01.svg",
+    "fields": { "description": "Description" }
+  },
+  "scio": {
+    "slug": "sugar_order",
+    "title": "CRM orders",
+    "sname": "SugarCRM: In Orders",
+    "munit": "n",
+    "weight": 4,
+    "icon": "crm_tasks-01.svg",
+    "fields": { "description": "Description" }
+  },
+  "sfl_n": {
+    "slug": "sfleads_n",
+    "title": "Salesforce: New Leads",
+    "sname": "Salesforce: New Leads",
+    "munit": "n",
+    "weight": 3,
+    "icon": "sf_lead.png",
+    "fields": {
+      "Status": "Status",
+      "Email": "Email",
+      "LeadSource": "Lead Source",
+      "Title": "Title",
+      "Company": "Company",
+      "NumberOfEmployees": "# Employees",
+      "Attachment": "Attachment"
+    }
+  },
+  "sf_n": {
+    "slug": "salesforce_n",
+    "title": "Salesforce: New Opportunities",
+    "sname": "Salesforce: New Opportunities",
+    "munit": "n",
+    "weight": 5,
+    "icon": "sf_opps.png",
+    "fields": {
+      "AccountName": "Account Name",
+      "Type": "Type",
+      "LeadSource": "Lead source",
+      "Probability": "Probability",
+      "Amount": "Amount",
+      "StageName": "Stage",
+      "Description": "Description",
+      "CloseDate": "Closing Date"
+    }
+  },
+  "chm": {
+    "slug": "ch_messages",
+    "title": "Salesforce: Chatter Messages",
+    "sname": "Salesforce: Chatter Messages",
+    "munit": "n",
+    "weight": 1,
+    "icon": "chatter_msg.svg",
+    "fields": { "Body": "Body" }
+  },
+  "cha": {
+    "slug": "ch_activts",
+    "title": "Salesforce: Chatter",
+    "sname": "Salesforce: Chatter",
+    "munit": "n",
+    "weight": 4,
+    "icon": "sf_chatter.png",
+    "fields": { "Body": "Body" }
+  },
+  "sfc": {
+    "slug": "sfcalls",
+    "title": "Salesforce: Calls Logged",
+    "sname": "Salesforce: Calls (no. of calls)",
+    "munit": "n",
+    "weight": 4,
+    "icon": "sf_calls.png",
+    "fields": {
+      "Status": "Status",
+      "Priority": "Priority",
+      "Type": "Related To ",
+      "Description": "Description",
+      "CallType": "Call Type"
+    }
+  },
+  "sfs": {
+    "slug": "sfsms",
+    "title": "Salesforce: SMS Logged",
+    "sname": "Salesforce: SMS (no. of SMS)",
+    "munit": "n",
+    "weight": 2,
+    "icon": "sf_sms.png",
+    "fields": { "Status": "Status", "Priority": "Priority" }
+  },
+  "sfi": {
+    "slug": "sfints",
+    "title": "Salesforce: Activities",
+    "sname": "Salesforce: Activities",
+    "munit": "n",
+    "weight": 1,
+    "icon": "sf_acts.png",
+    "fields": { "Type": "Module", "Description": "Description" }
+  },
+  "sf": {
+    "slug": "salesforce",
+    "title": "Salesforce: Activities",
+    "sname": "Salesforce: Oportunity Act. (depr.)",
+    "munit": "n",
+    "weight": 4,
+    "icon": "sf_opps.png",
+    "fields": {
+      "AccountName": "Account Name",
+      "Type": "Type",
+      "LeadSource": "Lead source",
+      "Probability": "Probability",
+      "Amount": "Amount",
+      "StageName": "Stage",
+      "Description": "Description",
+      "CloseDate": "Closing Date"
+    }
+  },
+  "sfl": {
+    "slug": "sfleads",
+    "title": "Salesforce: Leads",
+    "sname": "Salesforce: Leads (depr.)",
+    "munit": "n",
+    "weight": 3,
+    "icon": "sf_lead.png",
+    "fields": {
+      "Status": "Status",
+      "Email": "Email",
+      "LeadSource": "Lead Source",
+      "Title": "Title",
+      "Company": "Company",
+      "NumberOfEmployees": "# Employees",
+      "Attachment": "Attachment"
+    }
+  },
+  "sf_lc": {
+    "slug": "sf_livechat",
+    "title": "Salesforce: Live Chat",
+    "sname": "Salesforce: Live Chat",
+    "munit": "n",
+    "weight": 1,
+    "icon": "sf_livechats.png",
+    "fields": {
+      "Status": "Status",
+      "ChatDuration": "Chat Duration",
+      "WaitTime": "Waiting Time"
+    }
+  },
+  "sf_cs": {
+    "slug": "sf_case",
+    "title": "Salesforce: Cases",
+    "sname": "Salesforce: Cases",
+    "munit": "n",
+    "weight": 3,
+    "icon": "sf_case.png",
+    "fields": {
+      "Subject": "Subject",
+      "Status": "Status",
+      "Account": "Account",
+      "Contact": "Contact",
+      "Origin": "Origin",
+      "Reason": "Reason"
+    }
+  },
+  "sf_ast": {
+    "slug": "sf_asset",
+    "title": "Salesforce: Assets",
+    "sname": "Salesforce: Assets",
+    "munit": "n",
+    "weight": 3,
+    "icon": "sf_asset.png",
+    "fields": {
+      "Status": "Status",
+      "Account": "Account",
+      "Contact": "Contact",
+      "Product2": "Product",
+      "Description": "Description"
+    }
+  },
+  "sf_odr": {
+    "slug": "sf_order",
+    "title": "Salesforce: Orders",
+    "sname": "Salesforce: Orders",
+    "munit": "n",
+    "weight": 3,
+    "icon": "sf_order.png",
+    "fields": {
+      "Status": "Status",
+      "Account": "Account",
+      "EffectiveDate": "Start Date",
+      "Description": "Description"
+    }
+  },
+  "lf_rl": {
+    "slug": "lf_roles",
+    "title": "Litify Roles",
+    "sname": "Litify: Roles",
+    "munit": "n",
+    "weight": 3,
+    "icon": "litify.png",
+    "fields": {
+      "litify_pm__Role__c": "Title",
+      "litify_pm__Matter__c": "Matter",
+      "link": "Link"
+    }
+  },
+  "lf_ng": {
+    "slug": "lf_negos",
+    "title": "Litify Negotiations",
+    "sname": "Litify: Negotiations",
+    "munit": "n",
+    "weight": 4,
+    "icon": "litify.png",
+    "fields": {
+      "litify_pm__Matter__c": "Matter",
+      "Description_of_Incident__c": "Description",
+      "link": "Link"
+    }
+  },
+  "lf_nt": {
+    "slug": "lf_notes",
+    "title": "Litify Notes",
+    "sname": "Litify: Notes",
+    "munit": "n",
+    "weight": 3,
+    "icon": "litify.png",
+    "fields": {
+      "litify_pm__lit_Matter__c": "Matter",
+      "litify_pm__lit_Related_To__c": "Related To",
+      "link": "Link"
+    }
+  },
+  "lf_at": {
+    "slug": "lf_acts",
+    "title": "Litify Activities",
+    "sname": "Litify: Activities",
+    "munit": "n",
+    "weight": 1,
+    "icon": "litify.png",
+    "fields": { "Action": "Action", "Module": "Module", "Link": "Link" }
+  },
+  "sf_nt": {
+    "slug": "sf_note",
+    "title": "Salesforce: Notes",
+    "sname": "Salesforce: Notes",
+    "munit": "n",
+    "weight": 1,
+    "icon": "sf_note.png",
+    "fields": {}
+  },
+  "sf_acc": {
+    "slug": "sf_account",
+    "title": "Salesforce: Accounts",
+    "sname": "Salesforce: Accounts",
+    "munit": "n",
+    "weight": 3,
+    "icon": "sf_account.png",
+    "fields": {
+      "AnnualRevenue": "Annual Revenue",
+      "Type": "Account Type",
+      "Industry": "Industry",
+      "Description": "Description",
+      "Website": "Website"
+    }
+  },
+  "sf_tct": {
+    "slug": "sf_ticket",
+    "title": "Salesforce: Tickets",
+    "sname": "Salesforce: Tickets",
+    "munit": "n",
+    "weight": 3,
+    "icon": "sf_ticket.png",
+    "fields": {
+      "Subject__c": "Subject",
+      "Account_Name__c": "Account Name",
+      "Agreement__c": "Agreement"
+    }
+  },
+  "lf_mtr": {
+    "slug": "lf_matter",
+    "title": "Litify Matters",
+    "sname": "Litify: Matters",
+    "munit": "n",
+    "weight": 3,
+    "icon": "litify.png",
+    "fields": {
+      "litify_pm__Display_Name__c": "Display Name",
+      "litify_pm__Case_Type__c": "Case Type",
+      "litify_pm__Description__c": "Description"
+    }
+  },
+  "sf_con": {
+    "slug": "sf_contact",
+    "title": "Salesforce: Contacts",
+    "sname": "Salesforce: Contacts",
+    "munit": "n",
+    "weight": 2,
+    "icon": "sf_contact.png",
+    "fields": {
+      "Account": "Related Account",
+      "Department": "Department",
+      "ReportsTo": "Reports to Name",
+      "Email": "Email"
+    }
+  },
+  "sf_tcu": {
+    "slug": "sf_ticket_u",
+    "title": "Salesforce: Ticket Updates",
+    "sname": "Salesforce: Ticket Updates",
+    "munit": "n",
+    "weight": 2,
+    "icon": "sf_ticket_update.png",
+    "fields": {
+      "Ticket__c": "Ticket",
+      "Comments__c": "Comments",
+      "Time_Spent__c": "Time Spent",
+      "Billable__c": "Billable"
+    }
+  },
+  "lf_ctr": {
+    "slug": "lf_chatter",
+    "title": "Litify Chatters",
+    "sname": "Litify: Chatters",
+    "munit": "n",
+    "weight": 1,
+    "icon": "litify.png",
+    "fields": { "Body": "Body" }
+  },
+  "sf_prj": {
+    "slug": "sf_project",
+    "title": "Salesforce: Projects",
+    "sname": "Salesforce: Projects",
+    "munit": "n",
+    "weight": 3,
+    "icon": "sf_project.png",
+    "fields": {
+      "Stage__c": "Stage type",
+      "Step__c": "Step",
+      "Close_Date__c": "Close Date"
+    }
+  },
+  "lf_dct": {
+    "slug": "lf_docs",
+    "title": "Litify Documents",
+    "sname": "Litify: Documents",
+    "munit": "n",
+    "weight": 1,
+    "icon": "litify.png",
+    "fields": {
+      "IsDeleted": "Is Deleted",
+      "Name": "Name",
+      "litify_docs__Action__c": "Action"
+    }
+  },
+  "sf_ev": {
+    "slug": "sf_events",
+    "title": "Salesforce: Events",
+    "sname": "Salesforce: Events",
+    "munit": "t",
+    "weight": 3,
+    "icon": "sf_events.png",
+    "fields": {
+      "Location": "Location",
+      "EventSubtype": "Type",
+      "duration": "Duration"
+    }
+  },
+  "vbc": {
+    "slug": "vbc",
+    "title": "Vonage Business Cloud: Calls",
+    "sname": "VBC: Calls",
+    "munit": "t",
+    "weight": 4,
+    "icon": "vonage.png",
+    "fields": {
+      "result": "Status",
+      "direction": "Direction",
+      "length": "Duration"
+    }
+  },
+  "vbc_m": {
+    "slug": "vbc_meets",
+    "title": "Vonage Business Cloud: Meetings",
+    "sname": "VBC: Meetings",
+    "munit": "t",
+    "weight": 3,
+    "icon": "vonage.png",
+    "fields": {}
+  },
+  "cr_in": {
+    "slug": "crx-linkedin",
+    "title": "LinkedIn Activity",
+    "sname": "LinkedIn: Activity",
+    "munit": "n",
+    "weight": 1,
+    "icon": "linkedin.png",
+    "fields": { "subModule": "Module", "location": "Location" },
+    "sites": ".linkedin.com"
+  },
+  "cr_mn": {
+    "slug": "crx-monday",
+    "title": "Monday.com Activity",
+    "sname": "Monday.com: Activity",
+    "munit": "n",
+    "weight": 1,
+    "icon": "monday-com.png",
+    "fields": { "subModule": "Module", "location": "Location" },
+    "sites": ".monday.com"
+  },
+  "cr_hs": {
+    "slug": "crx-hubspot",
+    "title": "HubSpot Activity",
+    "sname": "HubSpot: Activity",
+    "munit": "n",
+    "weight": 1,
+    "icon": "hubspot.png",
+    "fields": { "subModule": "Module", "location": "Location" },
+    "sites": ".hubspot.com"
+  },
+  "cr_vo": {
+    "slug": "crx-vonigo",
+    "title": "Vonigo Activity",
+    "sname": "Vonigo: Activity",
+    "munit": "n",
+    "weight": 1,
+    "icon": "vonigo.jpeg",
+    "fields": { "subModule": "Module", "location": "Location" },
+    "sites": ".vonigo.com"
+  },
+  "cr_cs": {
+    "slug": "crx-cslide",
+    "title": "ClearSlide Activity",
+    "sname": "ClearSlide: Activity",
+    "munit": "n",
+    "weight": 1,
+    "icon": "clearslide.png",
+    "fields": { "subModule": "Module", "location": "Location" },
+    "sites": ".clearslide.com"
+  },
+  "cr_7l": {
+    "slug": "crx-7lft",
+    "title": "7L Freight Activity",
+    "sname": "7L Freight: Activity",
+    "munit": "n",
+    "weight": 1,
+    "icon": "7lfreight.png",
+    "fields": {
+      "subModule": "Module",
+      "location": "Location",
+      "action": "Action",
+      "airport": "AirPort",
+      "dest": "Destination",
+      "quantity": "Quantity",
+      "weight": "Weight",
+      "date": "Date",
+      "pickupdate": "Pickupdate",
+      "delivarydate": "Delivary Date",
+      "requirement": "Requirement",
+      "instruction": "Instruction",
+      "status": "Status",
+      "port": "Port",
+      "search": "Search",
+      "account": "Account",
+      "information": "Information"
+    },
+    "sites": "7lfreight.com"
+  },
+  "cr_ds": {
+    "slug": "crx-docusign",
+    "title": "DocuSign Activity",
+    "sname": "DocuSign: Activity",
+    "munit": "n",
+    "weight": 1,
+    "icon": "docusign.png",
+    "fields": {
+      "subModule": "Module",
+      "action": "Action",
+      "description": "Description",
+      "organization": "Organization",
+      "sender": "Sender",
+      "recipients": "Recipients"
+    },
+    "sites": ".docusign."
+  },
+  "cr_qb": {
+    "slug": "crx-qbooks",
+    "title": "QuickBooks Activity",
+    "sname": "QuickBooks: Activity",
+    "munit": "n",
+    "weight": 1,
+    "icon": "quickbooks.png",
+    "fields": { "subModule": "Module", "location": "Location" },
+    "sites": ".qbo.intuit.com"
+  },
+  "cr_ns": {
+    "slug": "crx-nutshell",
+    "title": "Nutshell Activity",
+    "sname": "Nutshell: Activity",
+    "munit": "n",
+    "weight": 1,
+    "icon": "nutshell.png",
+    "fields": {
+      "subModule": "Module",
+      "name": "Name",
+      "from": "From",
+      "to": "To",
+      "openedBy": "Opened By",
+      "openedOn": "Opened On",
+      "expectedToClose": "End On",
+      "confidence": "Confidence",
+      "value": "Value",
+      "dueDate": "Due Date",
+      "assignee": "Assignee",
+      "description": "Description",
+      "address": "Address"
+    },
+    "sites": ".nutshell."
+  },
+  "cr_ch": {
+    "slug": "crx-custh",
+    "title": "CustHelp Activity",
+    "sname": "CustHelp: Activity",
+    "munit": "n",
+    "weight": 1,
+    "icon": "custhelp.png",
+    "fields": { "title": "Title", "url": "URL" },
+    "sites": ".custhelp.com"
+  },
+  "cr_lh1": {
+    "slug": "crx-lh1",
+    "title": "LH1Ondemand Activity",
+    "sname": "LH1Ondemand: Activity",
+    "munit": "n",
+    "weight": 1,
+    "icon": "lh1ondemand.png",
+    "fields": { "title": "Title", "url": "URL" },
+    "sites": ".lh1ondemand.com"
+  },
+  "cr_ev1": {
+    "slug": "crx-evo1",
+    "title": "Evolution1 Activity",
+    "sname": "Evolution1: Activity",
+    "munit": "n",
+    "weight": 1,
+    "icon": "evolution1.png",
+    "fields": { "title": "Title", "url": "URL" },
+    "sites": ".evolution1.com"
+  },
+  "cr_bl": {
+    "slug": "crx-bleads",
+    "title": "BoldLeads Activity",
+    "sname": "BoldLeads: Activity",
+    "munit": "n",
+    "weight": 1,
+    "icon": "boldleads.png",
+    "fields": {
+      "subModule": "Module",
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "company": "Company",
+      "address": "Address",
+      "type": "Type",
+      "subject": "Subject",
+      "mailBody": "Body",
+      "mailFrom": "From",
+      "mailCc": "Cc",
+      "attachmentFiles": "Attachments",
+      "notes": "Note",
+      "action": "Action",
+      "task": "Task"
+    },
+    "sites": "send_sms.boldleads.com"
+  },
+  "cr_bm": {
+    "slug": "crx-blsms",
+    "title": "BoldLeads SMS",
+    "sname": "BoldLeads: SMS",
+    "munit": "n",
+    "weight": 1,
+    "icon": "boldleads-sms.png",
+    "fields": { "type": "Type", "text": "Message" },
+    "sites": "staff.boldleads.com"
+  },
+  "cr_sso": {
+    "slug": "crx-sso",
+    "title": "SmartSearch Activity",
+    "sname": "SmartSearch: Activity",
+    "munit": "n",
+    "weight": 1,
+    "icon": "smartsearch.png",
+    "fields": {
+      "title": "Title",
+      "subModule": "Module",
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "company": "Company",
+      "address": "Address"
+    },
+    "sites": ".smartsearchonline.com"
+  },
+  "cr_mww": {
+    "slug": "crx-mwsw",
+    "title": "Marquis Biographies Online Activity",
+    "sname": "Marquis Biographies Online: Activity",
+    "munit": "n",
+    "weight": 1,
+    "icon": "marquiswhoswho.png",
+    "fields": {
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "company": "Company",
+      "address": "Address",
+      "subModule": "Module"
+    },
+    "sites": ".marquiswhoswho.com"
+  },
+  "cr_pcr": {
+    "slug": "crx-pcr",
+    "title": "PCRecruiter Activity",
+    "sname": "PCRecruiter: Activity",
+    "munit": "n",
+    "weight": 1,
+    "icon": "pcrecruiter.png",
+    "fields": {
+      "wname": "Module",
+      "name": "Name",
+      "phone": "Phone",
+      "organization": "Company",
+      "industry": "Industry",
+      "location": "Address",
+      "chartType": "Chart Type"
+    },
+    "sites": "pcrecruiter2.cfstaffing.com,www2.pcrecruiter.net"
+  },
+  "cr_mt": {
+    "slug": "crx-monster",
+    "title": "Monster.com Activity",
+    "sname": "Monster.com: Activity",
+    "munit": "n",
+    "weight": 1,
+    "icon": "monster.png",
+    "fields": {
+      "section": "Section",
+      "jobName": "Name",
+      "candidateName": "Name",
+      "candidateEmail": "Email",
+      "action": "Action",
+      "reportDateRange": "Date Range"
+    },
+    "sites": "hiring.monster.com"
+  },
+  "cr_cg": {
+    "slug": "crx-idcg",
+    "title": "IDI CostGuard Activity",
+    "sname": "IDI CostGuard: Activity",
+    "munit": "n",
+    "weight": 1,
+    "icon": "idcostguard.png",
+    "fields": {
+      "subModule": "Sub Module",
+      "objectType": "Object Type",
+      "fromDate": "From Date",
+      "toDate": "To Date",
+      "fileName": "File Name",
+      "fileStatus": "File Status",
+      "fileFormat": "File Format",
+      "searchCriteria": "Search Criteria",
+      "searchValue": "Search Value"
+    },
+    "sites": ".idibilling.com"
+  },
+  "cr_tr": {
+    "slug": "crx-trms",
+    "title": "TrackerRMS Activity",
+    "sname": "TrackerRMS: Activity",
+    "munit": "n",
+    "weight": 1,
+    "icon": "tracker-rms.png",
+    "fields": {
+      "action": "Action",
+      "name": "Name",
+      "view": "View",
+      "tab": "Section",
+      "candidateName": "Candidate",
+      "modalTitle": "Modal Title",
+      "subject": "Subject",
+      "dateTime": "Date",
+      "note": "Note",
+      "status": "Status"
+    },
+    "sites": ".tracker-rms.com"
+  },
+  "cr_sv": {
+    "slug": "crx-smrtvw",
+    "title": "SmartViewOnline Activity",
+    "sname": "SmartViewOnline: Activity",
+    "munit": "n",
+    "weight": 1,
+    "icon": "crx_smartview.png",
+    "fields": {},
+    "sites": "smartviewonline.net"
+  },
+  "cr_zr": {
+    "slug": "crx-zipr",
+    "title": "ZipRecruiter Activity",
+    "sname": "ZipRecruiter: Activity",
+    "munit": "n",
+    "weight": 1,
+    "icon": "ziprecruiter.png",
+    "fields": {
+      "jobFilter": "Job Filter",
+      "filters": "Filters",
+      "candidate": "Candidate",
+      "message": "Message",
+      "job": "Job",
+      "recipient": "Recipient",
+      "section": "Section"
+    },
+    "sites": ".ziprecruiter.com"
+  },
+  "cr_dx": {
+    "slug": "crx-doximity",
+    "title": "Doximity Activity",
+    "sname": "Doximity: Activity",
+    "munit": "n",
+    "weight": 1,
+    "icon": "doximity.png",
+    "fields": { "search": "Search" },
+    "sites": ".doximity.com"
+  },
+  "cr_id": {
+    "slug": "crx-indeed",
+    "title": "Indeed.com Activity",
+    "sname": "Indeed.com: Activity",
+    "munit": "n",
+    "weight": 1,
+    "icon": "indeed.png",
+    "fields": {},
+    "sites": ".indeed.com"
+  },
+  "cr_wt": {
+    "slug": "crx-wrldtrk",
+    "title": "WorldTrak Activity",
+    "sname": "WorldTrak: Activity",
+    "munit": "n",
+    "weight": 1,
+    "icon": "worldtrak.png",
+    "fields": {
+      "housebill": "House Bill",
+      "shipment": "Shipment",
+      "file": "File",
+      "loadconfirmation": "Load Confirmation",
+      "consol": "Consol",
+      "hobl": "HOBL",
+      "ref": "REF",
+      "quote": "Quote"
+    },
+    "sites": "worldtrak.omnilogistics.com"
+  },
+  "cr_sf": {
+    "slug": "crx-salefrc",
+    "title": "Salesforce Activity",
+    "sname": "Salesforce: Activity",
+    "munit": "n",
+    "weight": 1,
+    "icon": "salesF.png",
+    "fields": {
+      "domain": "Domain",
+      "action": "Action",
+      "targetItem": "Target Item",
+      "priority": "Priority",
+      "status": "Status",
+      "subject": "Subject",
+      "subjectType": "Subject Type",
+      "dueDate": "Due Date",
+      "chatStremHeader": "Chat Stream Header",
+      "moduleType": "Module Type",
+      "activity": "Activity",
+      "orderStartDate": "Order Start Date",
+      "module": "Module",
+      "orderNumber": "Order Number",
+      "opportunityName": "Opportunity Name",
+      "taskType": "Task Type",
+      "closeDate": "Close Date",
+      "stageType": "Stage Type",
+      "date_timeOpened": "Date/TimeOpened",
+      "caseStatus": "Case Status",
+      "leadStatus": "Lead Status",
+      "leadLastName": "Lead Last Name",
+      "contactLatName": "Contact Last Name",
+      "contactEmail": "Contact Email",
+      "accountName": "Account Name",
+      "contractName": "Contract Name"
+    },
+    "sites": ".lightning.force.com"
+  },
+  "cr_of": {
+    "slug": "crx-o365web",
+    "title": "O365Web Activity",
+    "sname": "O365Web: Activity",
+    "munit": "n",
+    "weight": 1,
+    "icon": "O365.png",
+    "fields": {
+      "subModule": "Website",
+      "email": "Email",
+      "emailTitle": "Email title",
+      "from": "From",
+      "to": "To",
+      "section": "Section",
+      "event": "Event",
+      "doctype": "Document type "
+    },
+    "sites": "www.office.com,office.com,.sharepoint.com,teams.microsoft.com,outlook.office365.com,outlook.office.com"
+  },
+  "cr_zi": {
+    "slug": "crx-zoominfo",
+    "title": "ZoomInfo Activity",
+    "sname": "ZoomInfo: Activity",
+    "munit": "n",
+    "weight": 1,
+    "icon": "zoominfo.png",
+    "fields": {
+      "title": "Title",
+      "activity": "Activity",
+      "sub-activity": "Sub activity",
+      "view-type": "View type",
+      "person-name": "Person name",
+      "position": "Job status",
+      "company-name": "Company name",
+      "company-url": "Company URL",
+      "results": "Results",
+      "viewed-tab": "Viewed type",
+      "product": "Product",
+      "search-type": "Search type",
+      "source-header": "Source header",
+      "date-range": "Date range",
+      "employee": "Employee",
+      "tag": "Tag"
+    },
+    "sites": "app.zoominfo.com"
+  },
+  "cr_cw": {
+    "slug": "crx-clarity",
+    "title": "Clarity Ticketing",
+    "sname": "Clarity Ticketing: Activity",
+    "munit": "n",
+    "weight": 1,
+    "icon": "clarity.png",
+    "fields": {
+      "activity": "Activity",
+      "ticketCode": "Ticket code",
+      "module": "Module"
+    },
+    "sites": "clarity.fusionconnect.com"
+  },
+  "cr_rq": {
+    "slug": "crx-reqtrc",
+    "title": "RequestTracker Activity",
+    "sname": "Request Tracker: Activity",
+    "munit": "n",
+    "weight": 1,
+    "icon": "reqTrcker.png",
+    "fields": {
+      "activity": "Activity",
+      "mainModule": "Main Module",
+      "subModule": "Sub Module",
+      "subject": "Subject",
+      "priority": "Priority",
+      "queue": "Queue",
+      "createdDate": "Created Date",
+      "lastUpdate": "Last Update",
+      "status": "Status",
+      "owner": "Owner"
+    },
+    "sites": "rt.fusionconnect.com"
+  },
+  "cr_gl": {
+    "slug": "crx-gsuit",
+    "title": "Google Workspace Activity",
+    "sname": "Google Workspace: Activity",
+    "munit": "n",
+    "weight": 1,
+    "icon": "GoogleWorkspace.png",
+    "fields": {
+      "email": "Email",
+      "activity": "Activity",
+      "activetab": "Active Tab",
+      "viewtype": "View Type",
+      "date": "Date",
+      "file": "File",
+      "noteTitle": "Note Title",
+      "jamboard": "Jamboard",
+      "subject": "Subject",
+      "recivers_list": "Receivers List",
+      "eventType": "Event Type",
+      "eventTitle": "Event Title",
+      "eventBy": "Event By",
+      "sharedUsrs": "Shared Users",
+      "site-url": "Site URL",
+      "chat": "Chat"
+    },
+    "sites": "mail.google.com,drive.google.com,docs.google.com,calendar.google.com,meet.google.com,sites.google.com,keep.google.com,jamboard.google.com"
+  },
+  "cr_sl": {
+    "slug": "crx-slslft",
+    "title": "Salesloft Activity",
+    "sname": "Salesloft: Activity",
+    "munit": "n",
+    "weight": 1,
+    "icon": "salesloft.png",
+    "fields": {},
+    "sites": "app.salesloft.com"
+  },
+  "cr_adb": {
+    "slug": "crx-adbldr",
+    "title": "AdBuilder Activity",
+    "sname": "Ad Builder: Activity",
+    "munit": "n",
+    "weight": 1,
+    "icon": "AdBuilder.png",
+    "fields": {
+      "tempId": "Template Id",
+      "adId": "Ad Id",
+      "subModule": "Sub Module"
+    },
+    "sites": "shoesforcrewsuat.channel-fusion.com"
+  },
+  "cr_arb": {
+    "slug": "crx-arbit",
+    "title": "Other Websites Activity",
+    "sname": "Other Websites Activity",
+    "munit": "n",
+    "weight": 1,
+    "icon": "../chrome.png",
+    "fields": {},
+    "sites": "."
+  },
+  "cr_ard": {
+    "slug": "crx-arbitd",
+    "title": "Other Website Duration",
+    "sname": "Other Websites Duration",
+    "munit": "t",
+    "weight": 1,
+    "icon": "../chrome.png",
+    "fields": {},
+    "sites": "."
+  },
+  "cr_orm": {
+    "slug": "crx-orum",
+    "title": "Orum Calls",
+    "sname": "Orum Calls",
+    "munit": "t",
+    "weight": 4,
+    "icon": "orum_logo.png",
+    "fields": {},
+    "sites": null
+  },
+  "dp_cl": {
+    "slug": "dialpad_call",
+    "title": "Dialpad Calls",
+    "sname": "Dialpad: Calls",
+    "munit": "t",
+    "weight": 4,
+    "icon": "logo_dialpad_call.png",
+    "fields": {
+      "category": "Status",
+      "direction": "Direction",
+      "duration": "Duration"
+    }
+  },
+  "box": {
+    "slug": "box-com",
+    "title": "Box.com Activities",
+    "sname": "Box.com: Activity",
+    "munit": "n",
+    "weight": 2,
+    "icon": "box.png",
+    "fields": { "event_type": "Action", "parent": "Folder", "owner": "Owner" }
+  },
+  "dpbx": {
+    "slug": "dropbox",
+    "title": "Dropbox Activities",
+    "sname": "Dropbox: Activities",
+    "munit": "n",
+    "weight": 2,
+    "icon": "dropbox.png",
+    "fields": {
+      "event_type": "Action",
+      "source": "Source",
+      "source_path": "Source Path",
+      "source_type": "Source Type",
+      "renamed_source": "Renamed As",
+      "from_source": "From",
+      "to_source": "To",
+      "group_name": "Group Name",
+      "grop_member": "Group Member",
+      "invt_members": "Invite Users",
+      "shre_members": "Shared Users",
+      "shre_groups": "Shared Groups",
+      "comment": "Comment",
+      "file_req_title": "File Request Title"
+    }
+  },
+  "bh_cd": {
+    "slug": "bh_cands",
+    "title": "Bullhorn Candidates",
+    "sname": "Bullhorn: Candidate",
+    "munit": "n",
+    "weight": 2,
+    "icon": "bullhorn-cd.png",
+    "fields": {
+      "companyName": "Organization",
+      "employeeType": "Type",
+      "status": "Status"
+    }
+  },
+  "bh_cn": {
+    "slug": "bh_cons",
+    "title": "Bullhorn Contacts",
+    "sname": "Bullhorn: Contacts",
+    "munit": "n",
+    "weight": 2,
+    "icon": "bullhorn-cn.png",
+    "fields": { "companyName": "Organization", "status": "Status" }
+  },
+  "bh_jb": {
+    "slug": "bh_jobs",
+    "title": "Bullhorn Jobs",
+    "sname": "Bullhorn: Jobs",
+    "munit": "n",
+    "weight": 3,
+    "icon": "bullhorn-jb.png",
+    "fields": {
+      "module": "Module",
+      "clientCorporation": "Organization",
+      "clientContact": "Contact",
+      "candidate": "Candidate",
+      "jobTitile": "Job Title",
+      "dateBegin": "Scheduled Start",
+      "dateEnd": "Scheduled End",
+      "employmentType": "Type",
+      "status": "Status",
+      "comments": "Comment",
+      "description": "Description"
+    }
+  },
+  "bh_op": {
+    "slug": "bh_opps",
+    "title": "Bullhorn Opportunities",
+    "sname": "Bullhorn: Opportunities",
+    "munit": "n",
+    "weight": 5,
+    "icon": "bullhorn-op.png",
+    "fields": {
+      "clientCorporation": "Organization",
+      "dealValue": "Deal",
+      "type": "Type",
+      "status": "Status"
+    }
+  },
+  "bh_nt": {
+    "slug": "bh_notes",
+    "title": "Bullhorn Notes",
+    "sname": "Bullhorn: Notes",
+    "munit": "n",
+    "weight": 1,
+    "icon": "bullhorn-nt.png",
+    "fields": { "action": "Action", "comments": "Comment" }
+  },
+  "bh_ts": {
+    "slug": "bh_tasks",
+    "title": "Bullhorn Tasks",
+    "sname": "Bullhorn: Tasks",
+    "munit": "n",
+    "weight": 3,
+    "icon": "bullhorn-ts.png",
+    "fields": {
+      "type": "Type",
+      "dueDate": "Due Date",
+      "description": "Description"
+    }
+  },
+  "bh_ld": {
+    "slug": "bh_leads",
+    "title": "Bullhorn Leads",
+    "sname": "Bullhorn: Leads",
+    "munit": "n",
+    "weight": 3,
+    "icon": "bullhorn-ld.png",
+    "fields": {
+      "title": "Title",
+      "clientCorporation": "Organization",
+      "status": "Status"
+    }
+  },
+  "mt_cl": {
+    "slug": "meta_calls",
+    "title": "Phone Calls",
+    "sname": "Phone: Calls",
+    "munit": "t",
+    "weight": 4,
+    "icon": "logo_meta_calls.png",
+    "fields": {
+      "status": "Status",
+      "direction": "Direction",
+      "department": "Division",
+      "duration": "Duration"
+    }
+  },
+  "cw_con": {
+    "slug": "cw_consols",
+    "title": "CargoWise Consolidations",
+    "sname": "CargoWise: Consolidations",
+    "munit": "n",
+    "weight": 1,
+    "icon": "cargowise.png",
+    "fields": { "TimesTouched": "Times Touched" }
+  },
+  "cw_shp": {
+    "slug": "cw_ships",
+    "title": "CargoWise Shipments",
+    "sname": "CargoWise: Shipments",
+    "munit": "n",
+    "weight": 1,
+    "icon": "cargowise.png",
+    "fields": { "TimesTouched": "Times Touched" }
+  },
+  "cw_org": {
+    "slug": "cw_orgs",
+    "title": "CargoWise Organizations",
+    "sname": "CargoWise: Organizations",
+    "munit": "n",
+    "weight": 1,
+    "icon": "cargowise.png",
+    "fields": { "TimesTouched": "Times Touched" }
+  },
+  "cw_prt": {
+    "slug": "cw_prt_trn",
+    "title": "CargoWise Port Transport",
+    "sname": "CargoWise: Port Transport",
+    "munit": "n",
+    "weight": 1,
+    "icon": "cargowise.png",
+    "fields": {}
+  },
+  "sl_ch": {
+    "slug": "slack_chats",
+    "title": "Slack Chats",
+    "sname": "Slack: Chats",
+    "munit": "n",
+    "weight": 1,
+    "icon": "slack.png",
+    "fields": {}
+  },
+  "dy_ld": {
+    "slug": "dy_lds",
+    "title": "Dynamics Leads",
+    "sname": "Dynamics: Leads",
+    "munit": "n",
+    "weight": 3,
+    "icon": "dynamics365.png",
+    "fields": {
+      "company": "Company",
+      "name": "Full Name",
+      "description": "Description"
+    }
+  },
+  "dy_op": {
+    "slug": "dy_opp",
+    "title": "Dynamics Opportunities",
+    "sname": "Dynamics: Opportunities",
+    "munit": "n",
+    "weight": 4,
+    "icon": "dynamics365.png",
+    "fields": {
+      "stepname": "Step",
+      "a1_estdataclosedate": "Closed Date",
+      "status": "Status",
+      "sales_id": "Sales Id",
+      "state": "State",
+      "description": "Description",
+      "quote_opportunity": "Opportunity",
+      "customer": "Customer"
+    }
+  },
+  "dy_ac": {
+    "slug": "dy_acc",
+    "title": "Dynamics Accounts",
+    "sname": "Dynamics: Accounts",
+    "munit": "n",
+    "weight": 3,
+    "icon": "dynamics365.png",
+    "fields": { "owner": "Owner", "description": "Description" }
+  },
+  "dy_at": {
+    "slug": "dy_act",
+    "title": "Dynamics Activities",
+    "sname": "Dynamics: Activities",
+    "munit": "n",
+    "weight": 1,
+    "icon": "dynamics365.png",
+    "fields": {
+      "modified_component_type": "Type",
+      "description": "Description",
+      "status": "Status",
+      "activity_type": "Activity Type",
+      "related_to": "Related To",
+      "title": "Title",
+      "company": "Company",
+      "name": "Full Name",
+      "stepname": "Step",
+      "a1_estdataclosedate": "Closed Date",
+      "sales_id": "Sales Id",
+      "state": "State"
+    }
+  },
+  "dy_cs": {
+    "slug": "dy_cas",
+    "title": "Dynamics Cases",
+    "sname": "Dynamics: Cases",
+    "munit": "n",
+    "weight": 2,
+    "icon": "dynamics365.png",
+    "fields": { "origin": "Origin", "case_type": "Type" }
+  },
+  "dy_pr": {
+    "slug": "dy_pro",
+    "title": "Dynamics Projects",
+    "sname": "Dynamics: Projects",
+    "munit": "n",
+    "weight": 3,
+    "icon": "dynamics365.png",
+    "fields": {}
+  },
+  "dy_re": {
+    "slug": "dy_req",
+    "title": "Dynamics Requests",
+    "sname": "Dynamics: Requests",
+    "munit": "n",
+    "weight": 2,
+    "icon": "dynamics365.png",
+    "fields": { "notes": "Notes" }
+  },
+  "ms_sp": {
+    "slug": "sharepoint",
+    "title": "SharePoint Activities",
+    "sname": "SharePoint Activities",
+    "munit": "n",
+    "weight": 1,
+    "icon": "sharepoint.png",
+    "fields": {}
+  },
+  "gtc_c": {
+    "slug": "gtc_calls",
+    "title": "GoToConnect Calls",
+    "sname": "GoToConnect Calls",
+    "munit": "t",
+    "weight": 4,
+    "icon": "gtc.png",
+    "fields": {
+      "status": "Status",
+      "direction": "Direction",
+      "duration": "Duration"
+    }
+  },
+  "8x8_c": {
+    "slug": "8x8_calls",
+    "title": "8x8 Calls",
+    "sname": "8x8 Calls",
+    "munit": "t",
+    "weight": 4,
+    "icon": "8x8.png",
+    "fields": {
+      "status": "Status",
+      "type": "Type",
+      "direction": "Direction",
+      "duration": "Duration"
+    }
+  },
+  "td_cl": {
+    "slug": "td_calls",
+    "title": "Talkdesk Calls",
+    "sname": "Talkdesk Calls",
+    "munit": "t",
+    "weight": 4,
+    "icon": "talkdesk.png",
+    "fields": { "duration": "Duration" }
+  },
+  "wx_mt": {
+    "slug": "wx_meets",
+    "title": "Webex Meetings",
+    "sname": "Webex Meetings",
+    "munit": "t",
+    "weight": 4,
+    "icon": "webex.png",
+    "fields": {}
+  },
+  "cl_js": {
+    "slug": "cl_jobs",
+    "title": "Crelate Jobs",
+    "sname": "Crelate: Jobs",
+    "munit": "n",
+    "weight": 2,
+    "icon": "crelate_jobs.png",
+    "fields": { "action": "Action" }
+  },
+  "cl_ct": {
+    "slug": "cl_contacts",
+    "title": "Crelate Contacts",
+    "sname": "Crelate: Contacts",
+    "munit": "n",
+    "weight": 2,
+    "icon": "crelate_contacts.png",
+    "fields": { "action": "Action" }
+  },
+  "cl_cp": {
+    "slug": "cl_companies",
+    "title": "Crelate Companies",
+    "sname": "Crelate: Companies",
+    "munit": "n",
+    "weight": 2,
+    "icon": "crelate_companies.png",
+    "fields": { "action": "Action" }
+  },
+  "cl_at": {
+    "slug": "cl_acts",
+    "title": "Crelate Activities",
+    "sname": "Crelate: Activities",
+    "munit": "n",
+    "weight": 1,
+    "icon": "crelate_activities.png",
+    "fields": {}
+  },
+  "lt_at": {
+    "slug": "lt_acts",
+    "title": "Lightening.co Activities",
+    "sname": "Lightening.co: Activities",
+    "munit": "n",
+    "weight": 1,
+    "icon": "lightening.png",
+    "fields": { "action": "Action", "duration": "Duration" }
+  },
+  "fd_tk": {
+    "slug": "fd_tickets",
+    "title": "Freshdesk Tickets",
+    "sname": "Freshdesk: Tickets",
+    "munit": "n",
+    "weight": 1,
+    "icon": "freshdesk.png",
+    "fields": {}
+  },
+  "fd_em": {
+    "slug": "fd_emails",
+    "title": "Freshdesk Emails",
+    "sname": "Freshdesk: Emails",
+    "munit": "n",
+    "weight": 2,
+    "icon": "freshdesk.png",
+    "fields": {}
+  },
+  "fd_nt": {
+    "slug": "fd_notes",
+    "title": "Freshdesk Notes",
+    "sname": "Freshdesk: Notes",
+    "munit": "n",
+    "weight": 1,
+    "icon": "freshdesk.png",
+    "fields": {}
+  },
+  "zm_mt": {
+    "slug": "zm_meet",
+    "title": "Zoom Meetings",
+    "sname": "Zoom: Meetings",
+    "munit": "t",
+    "weight": 3,
+    "icon": "zoom.png",
+    "fields": {}
+  },
+  "zm_cl": {
+    "slug": "zm_call",
+    "title": "Zoom Calls",
+    "sname": "Zoom: Calls",
+    "munit": "t",
+    "weight": 4,
+    "icon": "zmphone.png",
+    "fields": {
+      "direction": "Direction",
+      "result": "Status",
+      "call_type": "Type"
+    }
+  },
+  "cnw_op": {
+    "slug": "cnw_opps",
+    "title": "ConnectWise Opportunities",
+    "sname": "ConnectWise: Opportunities",
+    "munit": "n",
+    "weight": 2,
+    "icon": "connectwise-manage.png",
+    "fields": {}
+  },
+  "cnw_pr": {
+    "slug": "cnw_proj",
+    "title": "ConnectWise Projects",
+    "sname": "ConnectWise: Projects",
+    "munit": "n",
+    "weight": 1,
+    "icon": "connectwise-manage.png",
+    "fields": {}
+  },
+  "cnw_te": {
+    "slug": "cnw_tm_exp",
+    "title": "ConnectWise Time & Expenses",
+    "sname": "ConnectWise: Time & Expenses",
+    "munit": "n",
+    "weight": 1,
+    "icon": "connectwise-manage.png",
+    "fields": {}
+  },
+  "cnw_st": {
+    "slug": "cnw_sv_tkt",
+    "title": "ConnectWise Service Tickets",
+    "sname": "ConnectWise: Service Tickets",
+    "munit": "n",
+    "weight": 2,
+    "icon": "connectwise-manage.png",
+    "fields": {}
+  },
+  "cnw_cm": {
+    "slug": "cnw_comp",
+    "title": "ConnectWise Companies",
+    "sname": "ConnectWise: Companies",
+    "munit": "n",
+    "weight": 1,
+    "icon": "connectwise-manage.png",
+    "fields": {}
+  },
+  "sn_in": {
+    "slug": "sn_inct",
+    "title": "ServiceNow Incidents",
+    "sname": "ServiceNow: Incidents",
+    "munit": "n",
+    "weight": 2,
+    "icon": "servicenow_incident.png",
+    "fields": {
+      "short_description": "Short Description",
+      "description": "Description",
+      "category": "Category",
+      "subcategory": "Subcategory",
+      "fieldname": "Field Name",
+      "oldvalue": "Old value",
+      "newvalue": "New value"
+    }
+  },
+  "sn_pb": {
+    "slug": "sn_pblm",
+    "title": "ServiceNow Problems",
+    "sname": "ServiceNow: Problems",
+    "munit": "n",
+    "weight": 2,
+    "icon": "servicenow_problem.png",
+    "fields": {
+      "short_description": "Problem statement",
+      "description": "Description",
+      "category": "Category",
+      "subcategory": "Subcategory"
+    }
+  },
+  "zd_cr": {
+    "slug": "zd_tic",
+    "title": "Zendesk Tickets",
+    "sname": "Zendesk: Tickets",
+    "munit": "n",
+    "weight": 2,
+    "icon": "zendesk.png",
+    "fields": {
+      "ticket_description": "Description",
+      "ticket_priority": "Priority",
+      "ticket_recipient": "Recipient",
+      "ticket_status": "Status",
+      "ticket_subject": "Subject",
+      "ticket_type": "Type"
+    }
+  },
+  "zd_up": {
+    "slug": "zd_tic_act",
+    "title": "Zendesk Ticket Activities",
+    "sname": "Zendesk: Ticket Activities",
+    "munit": "n",
+    "weight": 2,
+    "icon": "zendesk.png",
+    "fields": {
+      "type": "Action",
+      "field_name": "Updated Field",
+      "value": "Updated Value",
+      "previous_value": "Previous Value",
+      "body": "Body",
+      "public": "Public",
+      "author_id": "Author Id",
+      "comment_id": "Comment Id",
+      "attachment_id": "Attachment Id",
+      "previous_followers": "Previous Followers",
+      "current_followers": "Current Followers",
+      "previous_email_ccs": "Previous Email CCs",
+      "current_email_ccs": "Current Email CCs",
+      "macro_id": "Macro Id",
+      "macro_title": "Macro Title",
+      "macro_deleted": "Macro Deleted",
+      "score": "Score",
+      "assignee_id": "Assignee Id",
+      "ticket_description": "Ticket Description",
+      "ticket_priority": "Ticket Priority",
+      "ticket_recipient": "Ticket Recipient",
+      "ticket_status": "Ticket Status",
+      "ticket_subject": "Ticket Subject",
+      "ticket_type": "Ticket Type"
+    }
+  },
+  "rf_ap": {
+    "slug": "rfms_win",
+    "title": "RFMS",
+    "sname": "RFMS (minutes)",
+    "munit": "t",
+    "weight": 1,
+    "icon": "rfms.png",
+    "fields": { "mouse_click": "Mouse Clicks", "button_click": "Key Presses" }
+  },
+  "ct_op": {
+    "slug": "ct_opp",
+    "title": "Creatio Opportunities",
+    "sname": "Creatio: Opportunities",
+    "munit": "n",
+    "weight": 3,
+    "icon": "creatio.png",
+    "fields": {
+      "Action": "Action",
+      "Amount": "Amount",
+      "ContactName": "Customer",
+      "Probability": "Probability",
+      "StageComments": "Notes",
+      "StageOpportunityTitle": "Opportunity",
+      "TeamAccountName": "Account",
+      "TeamNotes": "Description",
+      "TeamRoleName": "Role",
+      "TeamOpportunityTitle": "Opportunity",
+      "ContactContactLoyalityName": "Loyality",
+      "ContactRoleName": "Role",
+      "ContactInfluenceName": "Influence",
+      "ContactDescription": "Description",
+      "ContactMotivator": "Decision factors",
+      "ContactOpportunityTitle": "Opportunity",
+      "LeadLeadTypeName": "Customer need",
+      "LeadQualifiedAccountName": "Account",
+      "LeadQualifyStatusName": "Status",
+      "LeadOpportunityTitle": "Opportunity",
+      "TacticOpportunityTitle": "Opportunity",
+      "CompetitorCompetitorName": "Manufacturer",
+      "CompetitorSupplierName": "Supplier",
+      "CompetitorCompetitorProductName": "Competitor product",
+      "CompetitorOpportunityTitle": "Opportunity",
+      "ProductAmount": "Amount",
+      "ProductComment": "Notes",
+      "ProductOpportunityTitle": "Opportunity",
+      "AttachmentTypeName": "Type",
+      "AttachmentNotes": "Description",
+      "AttachmentOpportunityTitle": "Opportunity"
+    }
+  },
+  "ct_pr": {
+    "slug": "ct_proj",
+    "title": "Creatio Projects",
+    "sname": "Creatio: Projects",
+    "munit": "n",
+    "weight": 2,
+    "icon": "creatio.png",
+    "fields": {
+      "Action": "Action",
+      "StatusName": "Status",
+      "TypeName": "Type",
+      "Duration": "Duration",
+      "ResourceContactName": "Contact",
+      "ResourceProjectName": "Project",
+      "CashflowDate": "Date",
+      "CashflowTypeName": "Type",
+      "CashflowStatusName": "Status",
+      "CashflowProjectName": "Project",
+      "AttachmentTypeName": "Type",
+      "AttachmentNotes": "Description",
+      "AttachmentProjectName": "Project"
+    }
+  },
+  "ct_or": {
+    "slug": "ct_ord",
+    "title": "Creatio Orders",
+    "sname": "Creatio: Orders",
+    "munit": "n",
+    "weight": 2,
+    "icon": "creatio.png",
+    "fields": {
+      "Action": "Action",
+      "ContactName": "Customer",
+      "StatusName": "Status",
+      "ProductQuantity": "Quantity",
+      "ProductOrderNumber": "Order",
+      "InstallmentTypeName": "Type",
+      "InstallmentPercentage": "Percentage",
+      "InstallmentOrderNumber": "Order",
+      "AttachmentTypeName": "Type",
+      "AttachmentNotes": "Description",
+      "AttachmentOrderNumber": "Order"
+    }
+  },
+  "ct_acc": {
+    "slug": "ct_acc",
+    "title": "Creatio Accounts",
+    "sname": "Creatio: Accounts",
+    "munit": "n",
+    "weight": 2,
+    "icon": "creatio.png",
+    "fields": {
+      "Action": "Action",
+      "PrimaryContactName": "Primary Contact",
+      "TypeName": "Type",
+      "AccountCategoryName": "Category",
+      "CommunicationCommunicationTypeName": "Type",
+      "CommunicationAccountName": "Account",
+      "AddressAccountName": "Account",
+      "BankingDescription": "Description",
+      "BankingAccountName": "Account",
+      "ConfigurationAccountName": "Account",
+      "OrganizationDepartmentName": "Department",
+      "OrganizationManagerName": "Manager",
+      "OrganizationDescription": "Description",
+      "OrganizationAccountName": "Account",
+      "ServiceAccountName": "Account",
+      "AttachmentTypeName": "Type",
+      "AttachmentNotes": "Description",
+      "AttachmentAccountName": "Account"
+    }
+  },
+  "ct_act": {
+    "slug": "ct_acts",
+    "title": "Creatio Activities",
+    "sname": "Creatio: Activities",
+    "munit": "n",
+    "weight": 1,
+    "icon": "creatio.png",
+    "fields": {
+      "Action": "Action",
+      "ActivityCategoryName": "Category",
+      "PriorityName": "Priority",
+      "StatusName": "Status",
+      "Recepient": "To",
+      "BlindCopyRecepient": "Bcc",
+      "CopyRecepient": "Cc",
+      "AccountName": "Account",
+      "ContactName": "Contact",
+      "LeadLeadName": "Lead",
+      "OrderNumber": "Order",
+      "CaseSubject": "Case",
+      "OpportunityTitle": "Opportunity",
+      "ContractNumber": "Contract",
+      "ProjectName": "Project",
+      "PostAccountTitle": "Account",
+      "PostContactTitle": "Contact",
+      "PostLeadTitle": "Lead",
+      "PostOrderTitle": "Order",
+      "PostCaseTitle": "Case",
+      "PostOpportunityTitle": "Opportunity",
+      "PostContractTitle": "Contract",
+      "PostProjectTitle": "Project",
+      "ParticipantActivityTitle": "Activity",
+      "PostSocialChannelTitle": "Channel",
+      "AttachmentTypeName": "Type",
+      "AttachmentNotes": "Description",
+      "AttachmentActivityTitle": "Activity"
+    }
+  },
+  "ct_ca": {
+    "slug": "ct_case",
+    "title": "Creatio Cases",
+    "sname": "Creatio: Cases",
+    "munit": "n",
+    "weight": 2,
+    "icon": "creatio.png",
+    "fields": {
+      "Action": "Action",
+      "AccountName": "Account",
+      "ContactName": "Contact",
+      "ParentCaseSubject": "Parent Case",
+      "ServiceItemName": "Service",
+      "StatusPriorityName": "Priority",
+      "StatusCaseSubject": "Case",
+      "ConfigurationCaseSubject": "Case",
+      "KnowledgeCaseSubject": "Case",
+      "ProblemCaseSubject": "Case",
+      "AttachmentCaseSubject": "Case"
+    }
+  },
+  "in_rcc": {
+    "slug": "in_rc_calls",
+    "title": "inContact RC Calls ",
+    "sname": "inContact: RC Calls",
+    "munit": "t",
+    "weight": 4,
+    "icon": "incontact_calls.png",
+    "fields": {}
+  },
+  "gh_cm": {
+    "slug": "gh_cmt",
+    "title": "GitHub Commits",
+    "sname": "GitHub: Commits",
+    "munit": "n",
+    "weight": 1,
+    "icon": "gh_commit.png",
+    "fields": { "repo": "Repository", "branch": "Branch" }
+  },
+  "gh_pl": {
+    "slug": "gh_pull",
+    "title": "GitHub Pulls",
+    "sname": "GitHub: Pulls",
+    "munit": "n",
+    "weight": 2,
+    "icon": "gh_pull.png",
+    "fields": { "branch": "From", "pull_to": "To", "created_at": "Created on" }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "data": {
+    "attendees": [
+      { "email": "ricardo.keth@prodmite.com", "responseStatus": "needsAction" },
+      {
+        "displayName": "Dason Test",
+        "email": "dason@prodmite.com",
+        "organizer": true,
+        "responseStatus": "accepted"
+      },
+      { "email": "ruksha@prodmite.com", "responseStatus": "needsAction" },
+      { "email": "vijay@prodmite.com", "responseStatus": "needsAction" },
+      {
+        "email": "vindula@prodmite.com",
+        "responseStatus": "needsAction",
+        "self": true
+      }
+    ],
+    "description": "Hi there, \n\nDasun Ariyarathna is inviting you to a scheduled RingCentral meeting. \n\nJoin from PC, Mac, Linux, iOS or Android: https://meetings.ringcentral.com/j/1486832379?pwd=Smk4cDhpdjllSWtySTE4MGxrR0E2Zz09\n    Password: 522761\nFor the best audio experience, please use computer audio.\n\nOr iPhone one-tap :\n    US: +1(312)2630281,,1486832379# \n           +1(346)9804201,,1486832379# \n           +1(469)4450100,,1486832379# (US South)\n           +1(470)8692200,,1486832379# (US East)\n           +1(623)4049000,,1486832379# (US West)\n           +1(646)3573664,,1486832379# \n           +1(650)2424929,,1486832379# \n           +1(720)9027700,,1486832379# (US Central)\n           +1(773)2319226,,1486832379# (US North)\n           +1(213)2505700,,1486832379# \nOr Telephone:\n    Dial(for higher quality, dial a number based on your current location): \n    US: +1(312)2630281 \n           +1(346)9804201 \n           +1(469)4450100 (US South)\n           +1(470)8692200 (US East)\n           +1(623)4049000 (US West)\n           +1(646)3573664 \n           +1(650)2424929 \n           +1(720)9027700 (US Central)\n           +1(773)2319226 (US North)\n           +1(213)2505700 \n    Meeting ID: 148 683 2379\n    International numbers available: https://meetings.ringcentral.com/teleconference\n\n",
+    "duration": 30,
+    "end": { "dateTime": "2023-03-12T10:30:00-07:00" },
+    "eventType": "default",
+    "id": "nlf4add4rc472i5gp1brdo63pc_20230312T170000Z",
+    "location": "https://meetings.ringcentral.com/j/1486832379?pwd=Smk4cDhpdjllSWtySTE4MGxrR0E2Zz09",
+    "start": { "dateTime": "2023-03-12T10:00:00-07:00" },
+    "status": "Not Responded",
+    "summary": "Dasun Ariyarathna's RingCentral Meetings 01"
+  },
+  "entities": {
+    "8726": { "etype": "person", "salience": 0.5, "phone": "13469804201" },
+    "8727": { "etype": "person", "salience": 0.5, "phone": "1486832379" },
+    "8728": { "etype": "person", "salience": 0.5, "phone": "13122630281" },
+    "8729": { "etype": "person", "salience": 0.5, "phone": "12132505700" },
+    "8730": { "etype": "person", "salience": 0.5, "phone": "17732319226" },
+    "8731": { "etype": "person", "salience": 0.5, "phone": "17209027700" },
+    "8732": { "etype": "person", "salience": 0.5, "phone": "16502424929" },
+    "8733": { "etype": "person", "salience": 0.5, "phone": "16463573664" },
+    "8734": { "etype": "person", "salience": 0.5, "phone": "16234049000" },
+    "8735": { "etype": "person", "salience": 0.5, "phone": "14708692200" }
+  },
+  "sentiment": { "magnitude": 0, "score": 0 }
+}

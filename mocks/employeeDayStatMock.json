@@ -1,0 +1,1080 @@
+{
+  "detail": {
+    "162553719": {
+      "title": "prodoscore - calendar",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [6, 6],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553707": {
+      "title": "google meet",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [29, 29],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553724": {
+      "title": "google meet",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [29, 29],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553645": {
+      "title": "dialpad sms - Google Search",
+      "flag": 0,
+      "product": "cr_arb",
+      "time": [51, 51],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553655": {
+      "title": "dialpad sms - Google Search",
+      "flag": 0,
+      "product": "cr_arb",
+      "time": [51, 51],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553723": {
+      "title": "prodoscore mail",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [62, 62],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553712": {
+      "title": "prodoscore mail",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [63, 63],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553697": {
+      "title": "prodoscore mail",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [108, 108],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553714": {
+      "title": "prodoscore mail",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [108, 108],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553673": {
+      "title": "prodoscore mail",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [109, 109],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553675": {
+      "title": "prodoscore mail",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [109, 109],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553679": {
+      "title": "prodoscore mail",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [109, 109],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553682": {
+      "title": "prodoscore mail",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [109, 109],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553683": {
+      "title": "prodoscore mail",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [109, 109],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553684": {
+      "title": "prodoscore mail",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [109, 109],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553698": {
+      "title": "prodoscore mail",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [109, 109],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553699": {
+      "title": "prodoscore mail",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [109, 109],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553701": {
+      "title": "prodoscore mail",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [109, 109],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553708": {
+      "title": "prodoscore mail",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [109, 109],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553710": {
+      "title": "prodoscore mail",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [109, 109],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553711": {
+      "title": "prodoscore mail",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [109, 109],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553717": {
+      "title": "prodoscore mail",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [109, 109],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553718": {
+      "title": "prodoscore mail",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [109, 109],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553721": {
+      "title": "prodoscore mail",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [109, 109],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553722": {
+      "title": "prodoscore mail",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [109, 109],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553726": {
+      "title": "prodoscore mail",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [109, 109],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553727": {
+      "title": "prodoscore mail",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [109, 109],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553728": {
+      "title": "prodoscore mail",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [109, 109],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553734": {
+      "title": "prodoscore mail",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [109, 109],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553737": {
+      "title": "prodoscore mail",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [109, 109],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553739": {
+      "title": "prodoscore mail",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [109, 109],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553702": {
+      "title": "prodoscore mail",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [110, 110],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553638": {
+      "title": "[Activity]",
+      "flag": 0,
+      "product": "cr_arb",
+      "time": [115, 115],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553686": {
+      "title": "prodoscore mail",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [134, 134],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553689": {
+      "title": "prodoscore mail",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [134, 134],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553696": {
+      "title": "prodoscore mail",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [134, 134],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553700": {
+      "title": "prodoscore mail",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [134, 134],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553715": {
+      "title": "prodoscore mail",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [134, 134],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553687": {
+      "title": "codimite pvt ltd mail",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [140, 140],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553671": {
+      "title": "To Vindula",
+      "flag": 0,
+      "product": "gm",
+      "time": [158, 158],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.2, "score": -0.1 }
+    },
+    "162553672": {
+      "title": "To Vijay",
+      "flag": 0,
+      "product": "gm",
+      "time": [158, 158],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.2, "score": -0.1 }
+    },
+    "162553752": {
+      "title": "123",
+      "flag": 0,
+      "product": "dc",
+      "time": [159, 159],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.1, "score": 0.1 },
+      "mime": "application/vnd.google-apps.spreadsheet"
+    },
+    "162553644": {
+      "title": "servicenow how to setup interactions - Google Search",
+      "flag": 0,
+      "product": "cr_arb",
+      "time": [166, 166],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553691": {
+      "title": "google drive",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [193, 193],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553693": {
+      "title": "prodoscore mail",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [195, 195],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553713": {
+      "title": "prodoscore mail",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [195, 195],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553716": {
+      "title": "prodoscore mail",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [195, 195],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553720": {
+      "title": "prodoscore mail",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [195, 195],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553735": {
+      "title": "meet - wyq-gzqi-kdv",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [195, 195],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553731": {
+      "title": "meet - wyq-gzqi-kdv",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [196, 196],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553651": {
+      "title": "whos - Google Search",
+      "flag": 0,
+      "product": "cr_arb",
+      "time": [226, 226],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553660": {
+      "title": "Builder | Overview - YouTube",
+      "flag": 0,
+      "product": "cr_arb",
+      "time": [244, 244],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553685": {
+      "title": "prodoscore mail",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [252, 252],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553678": {
+      "title": "prodoscore mail",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [253, 253],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553738": {
+      "title": "prodoscore mail",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [253, 253],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553636": {
+      "title": "[Activity]",
+      "flag": 0,
+      "product": "cr_arb",
+      "time": [253, 253],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553640": {
+      "title": "YouTube",
+      "flag": 0,
+      "product": "cr_arb",
+      "time": [253, 253],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553646": {
+      "title": "interaction table servicenow api - Google Search",
+      "flag": 0,
+      "product": "cr_arb",
+      "time": [253, 253],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553664": {
+      "title": "interaction table servicenow - Google Search",
+      "flag": 0,
+      "product": "cr_arb",
+      "time": [253, 253],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553656": {
+      "title": "reCAPTCHA",
+      "flag": 0,
+      "product": "cr_arb",
+      "time": [254, 254],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553666": {
+      "title": "reCAPTCHA",
+      "flag": 0,
+      "product": "cr_arb",
+      "time": [254, 254],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553653": {
+      "title": "reCAPTCHA",
+      "flag": 0,
+      "product": "cr_arb",
+      "time": [256, 256],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553634": {
+      "title": "[Activity]",
+      "flag": 0,
+      "product": "cr_arb",
+      "time": [257, 257],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553639": {
+      "title": "[Activity]",
+      "flag": 0,
+      "product": "cr_arb",
+      "time": [257, 257],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553649": {
+      "title": "YouTube",
+      "flag": 0,
+      "product": "cr_arb",
+      "time": [257, 257],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553668": {
+      "title": "servicenow project tasks - Google Search",
+      "flag": 0,
+      "product": "cr_arb",
+      "time": [257, 257],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553669": {
+      "title": "servicenow project tasks api - Google Search",
+      "flag": 0,
+      "product": "cr_arb",
+      "time": [257, 257],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553637": {
+      "title": "[Activity]",
+      "flag": 0,
+      "product": "cr_arb",
+      "time": [259, 259],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553647": {
+      "title": "servicenow project task - Google Search",
+      "flag": 0,
+      "product": "cr_arb",
+      "time": [259, 259],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553661": {
+      "title": "reCAPTCHA",
+      "flag": 0,
+      "product": "cr_arb",
+      "time": [259, 259],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553663": {
+      "title": "reCAPTCHA",
+      "flag": 0,
+      "product": "cr_arb",
+      "time": [259, 259],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553665": {
+      "title": "YouTube",
+      "flag": 0,
+      "product": "cr_arb",
+      "time": [259, 259],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553635": {
+      "title": "[Activity]",
+      "flag": 0,
+      "product": "cr_arb",
+      "time": [262, 262],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553650": {
+      "title": "it_project_manager servicenow - Google Search",
+      "flag": 0,
+      "product": "cr_arb",
+      "time": [262, 262],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553658": {
+      "title": "it_project_manager - Google Search",
+      "flag": 0,
+      "product": "cr_arb",
+      "time": [262, 262],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553659": {
+      "title": "it_project_manager servicenow cannot find - Google Search",
+      "flag": 0,
+      "product": "cr_arb",
+      "time": [263, 263],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553648": {
+      "title": "YouTube",
+      "flag": 0,
+      "product": "cr_arb",
+      "time": [264, 264],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553667": {
+      "title": "servicenow ppm module - Google Search",
+      "flag": 0,
+      "product": "cr_arb",
+      "time": [264, 264],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553695": {
+      "title": "prodoscore mail",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [274, 274],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553741": {
+      "title": "prodoscore mail",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [274, 274],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553674": {
+      "title": "meet - wyq-gzqi-kdv",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [283, 283],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553676": {
+      "title": "meet - wyq-gzqi-kdv",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [283, 283],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553740": {
+      "title": "prodoscore mail",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [288, 288],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553692": {
+      "title": "prodoscore mail",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [289, 289],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553690": {
+      "title": "prodoscore mail",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [298, 298],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553729": {
+      "title": "prodoscore mail",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [298, 298],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553730": {
+      "title": "prodoscore mail",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [298, 298],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553681": {
+      "title": "meet - evening meeting",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [303, 303],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553742": {
+      "title": "meet - evening meeting",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [303, 303],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553641": {
+      "title": "reCAPTCHA",
+      "flag": 0,
+      "product": "cr_arb",
+      "time": [314, 314],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553662": {
+      "title": "reCAPTCHA",
+      "flag": 0,
+      "product": "cr_arb",
+      "time": [314, 314],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553654": {
+      "title": "reCAPTCHA",
+      "flag": 0,
+      "product": "cr_arb",
+      "time": [319, 319],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553657": {
+      "title": "reCAPTCHA",
+      "flag": 0,
+      "product": "cr_arb",
+      "time": [319, 319],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553703": {
+      "title": "meet - evening meeting",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [354, 354],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553706": {
+      "title": "prodoscore mail",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [354, 354],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553732": {
+      "title": "prodoscore mail",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [354, 354],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553643": {
+      "title": "reCAPTCHA",
+      "flag": 0,
+      "product": "cr_arb",
+      "time": [374, 374],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553670": {
+      "title": "reCAPTCHA",
+      "flag": 0,
+      "product": "cr_arb",
+      "time": [374, 374],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553642": {
+      "title": "reCAPTCHA",
+      "flag": 0,
+      "product": "cr_arb",
+      "time": [379, 379],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553652": {
+      "title": "reCAPTCHA",
+      "flag": 0,
+      "product": "cr_arb",
+      "time": [379, 379],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553677": {
+      "title": "prodoscore mail",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [384, 384],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553688": {
+      "title": "prodoscore mail",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [384, 384],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553694": {
+      "title": "prodoscore mail",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [384, 384],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553736": {
+      "title": "prodoscore mail",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [384, 384],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553709": {
+      "title": "meet - prodoscore - nmshealth | zendesk",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [420, 420],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553733": {
+      "title": "meet - prodoscore - nmshealth | zendesk",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [420, 420],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553680": {
+      "title": "meet - daily update | customer support",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [450, 450],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553725": {
+      "title": "meet - daily update | customer support",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [450, 450],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553630": {
+      "title": "Test Meeting 01",
+      "flag": 24,
+      "product": "cl",
+      "time": [480, 630],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553704": {
+      "title": "meet - eou-yjpq-ruk",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [481, 481],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553705": {
+      "title": "meet - eou-yjpq-ruk",
+      "flag": 0,
+      "product": "cr_gl",
+      "time": [481, 481],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.0, "score": 0.0 }
+    },
+    "162553633": {
+      "title": "Dasun Ariyarathna's RingCentral Meetings 01",
+      "flag": 0,
+      "product": "cl",
+      "time": [600, 630],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.3, "score": 0.0 }
+    },
+    "162553631": {
+      "title": "Test Meeting 02",
+      "flag": 0,
+      "product": "cl",
+      "time": [720, 810],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.1, "score": 0.1 }
+    },
+    "162553632": {
+      "title": "TEST",
+      "flag": 21,
+      "product": "cl",
+      "time": [810, 1050],
+      "time_range": 0,
+      "sentiment": { "magnitude": 0.1, "score": 0.1 }
+    }
+  },
+  "limits": {},
+  "tzoffset": 0,
+  "emptz": "Los Angeles",
+  "busy5m": {
+    "data": [
+      ["Time", "Performance"],
+      ["00:00", 0],
+      ["00:10", 1],
+      ["00:20", 0],
+      ["00:30", 2],
+      ["00:40", 0],
+      ["00:50", 0],
+      ["01:00", 2],
+      ["01:10", 2],
+      ["01:20", 0],
+      ["01:30", 0],
+      ["01:40", 0],
+      ["01:50", 24],
+      ["02:00", 2],
+      ["02:10", 0],
+      ["02:20", 5],
+      ["02:30", 1],
+      ["02:40", 12],
+      ["02:50", 1],
+      ["03:00", 0],
+      ["03:10", 0],
+      ["03:20", 7],
+      ["03:30", 0],
+      ["03:40", 0],
+      ["03:50", 1],
+      ["04:00", 0],
+      ["04:10", 1],
+      ["04:20", 20],
+      ["04:30", 6],
+      ["04:40", 2],
+      ["04:50", 4],
+      ["05:00", 3],
+      ["05:10", 2],
+      ["05:20", 4],
+      ["05:30", 0],
+      ["05:40", 0],
+      ["05:50", 0],
+      ["06:00", 3],
+      ["06:10", 0],
+      ["06:20", 4],
+      ["06:30", 4],
+      ["06:40", 0],
+      ["06:50", 0],
+      ["07:00", 0],
+      ["07:10", 2],
+      ["07:20", 0],
+      ["07:30", 0],
+      ["07:40", 2],
+      ["07:50", 0],
+      ["08:00", 0],
+      ["08:10", 2],
+      ["08:20", 0],
+      ["08:30", 0],
+      ["08:40", 0],
+      ["08:50", 0],
+      ["09:00", 0],
+      ["09:10", 0],
+      ["09:20", 0],
+      ["09:30", 0],
+      ["09:40", 0],
+      ["09:50", 0],
+      ["10:00", 0],
+      ["10:10", 3],
+      ["10:20", 3],
+      ["10:30", 3],
+      ["10:40", 0],
+      ["10:50", 0],
+      ["11:00", 0],
+      ["11:10", 0],
+      ["11:20", 0],
+      ["11:30", 0],
+      ["11:40", 0],
+      ["11:50", 0],
+      ["12:00", 0],
+      ["12:10", 3],
+      ["12:20", 3],
+      ["12:30", 3],
+      ["12:40", 3],
+      ["12:50", 3],
+      ["13:00", 3],
+      ["13:10", 3],
+      ["13:20", 3],
+      ["13:30", 3],
+      ["13:40", 0],
+      ["13:50", 0],
+      ["14:00", 0],
+      ["14:10", 0],
+      ["14:20", 0],
+      ["14:30", 0],
+      ["14:40", 0],
+      ["14:50", 0],
+      ["15:00", 0],
+      ["15:10", 0],
+      ["15:20", 0],
+      ["15:30", 0],
+      ["15:40", 0],
+      ["15:50", 0],
+      ["16:00", 0],
+      ["16:10", 0],
+      ["16:20", 0],
+      ["16:30", 0],
+      ["16:40", 0],
+      ["16:50", 0],
+      ["17:00", 0],
+      ["17:10", 0],
+      ["17:20", 0],
+      ["17:30", 0],
+      ["17:40", 0],
+      ["17:50", 0],
+      ["18:00", 0],
+      ["18:10", 0],
+      ["18:20", 0],
+      ["18:30", 0],
+      ["18:40", 0],
+      ["18:50", 0],
+      ["19:00", 0],
+      ["19:10", 0],
+      ["19:20", 0],
+      ["19:30", 0],
+      ["19:40", 0],
+      ["19:50", 0],
+      ["20:00", 0],
+      ["20:10", 0],
+      ["20:20", 0],
+      ["20:30", 0],
+      ["20:40", 0],
+      ["20:50", 0],
+      ["21:00", 0],
+      ["21:10", 0],
+      ["21:20", 0],
+      ["21:30", 0],
+      ["21:40", 0],
+      ["21:50", 0],
+      ["22:00", 0],
+      ["22:10", 0],
+      ["22:20", 0],
+      ["22:30", 0],
+      ["22:40", 0],
+      ["22:50", 0],
+      ["23:00", 0],
+      ["23:10", 0],
+      ["23:20", 0],
+      ["23:30", 0],
+      ["23:40", 0],
+      ["23:50", 0],
+      ["24:00", 0]
+    ],
+    "has_any": true
+  },
+  "gap_time": {
+    "total": 420,
+    "gap_times": [
+      [540, 600],
+      [630, 720],
+      [810, 1080]
+    ]
+  },
+  "visibility": true
+}
